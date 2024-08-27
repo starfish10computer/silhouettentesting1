@@ -1,0 +1,3733 @@
+/* screen - fu-wu-xiang-mu */
+
+.fu-wu-xiang-mu {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.fu-wu-xiang-mu .overlap-group13 {
+  height: 2283px;
+  margin-left: -13px;
+  position: relative;
+  width: 1945px;
+  z-index: 1;
+}
+
+.fu-wu-xiang-mu .view-4 {
+  background-color: var(--eerie-black);
+  height: 2283px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.fu-wu-xiang-mu .group-462 {
+  align-items: flex-end;
+  background-image: url(../img/file--@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 887px;
+  left: 13px;
+  min-width: 1920px;
+  padding: 12px 732px;
+  position: absolute;
+  top: 1396px;
+}
+
+.fu-wu-xiang-mu .copyright {
+  height: 34px;
+  object-fit: cover;
+  width: 456px;
+}
+
+.fu-wu-xiang-mu .view-container {
+  height: 205px;
+  left: 537px;
+  position: absolute;
+  top: 180px;
+  width: 871px;
+}
+
+.fu-wu-xiang-mu .view-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  height: 196px;
+  left: 0;
+  min-width: 871px;
+  position: absolute;
+  top: 0;
+}
+
+.fu-wu-xiang-mu .overlap-group1 {
+  height: 219px;
+  margin-top: -17.0px;
+  position: relative;
+  width: 850px;
+}
+
+.fu-wu-xiang-mu .overlap-group-2 {
+  height: 219px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 850px;
+}
+
+.fu-wu-xiang-mu .business-services {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 84px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 136px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 8px 6px #00000029;
+  top: 0;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .instant-theme-switching-tagh3 {
+  color: var(--gallery);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 87px;
+  font-weight: 600;
+  left: 450px;
+  letter-spacing: -0.43px;
+  line-height: 108px;
+  position: absolute;
+  top: 101px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .ellipse-15 {
+  background-color: var(--eastern-blue);
+  left: 820px;
+  position: absolute;
+  top: 116px;
+}
+
+.fu-wu-xiang-mu .ellipse-16 {
+  align-self: center;
+  background-color: var(--white);
+  margin-top: 19.9px;
+}
+
+.fu-wu-xiang-mu .view-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 178px;
+  min-height: 49px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 120px;
+  transform: rotate(45.00deg);
+  width: 49px;
+}
+
+.fu-wu-xiang-mu .rectangle-180-5 {
+  background-color: var(--eastern-blue);
+  height: 8px;
+  margin-right: -20.21px;
+  margin-top: 20px;
+  transform: rotate(90deg);
+  width: 49px;
+}
+
+.fu-wu-xiang-mu .rectangle-179-5 {
+  background-color: var(--eastern-blue);
+  height: 8px;
+  margin-right: 0;
+  width: 49px;
+}
+
+.fu-wu-xiang-mu .view-7 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 178px;
+  min-height: 49px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 146px;
+  transform: rotate(45.00deg);
+  width: 49px;
+}
+
+.fu-wu-xiang-mu .rectangle-180-6 {
+  background-color: var(--gallery);
+  height: 8px;
+  margin-right: -20.21px;
+  margin-top: 20px;
+  transform: rotate(90deg);
+  width: 49px;
+}
+
+.fu-wu-xiang-mu .rectangle-179-6 {
+  background-color: var(--gallery);
+  height: 8px;
+  margin-right: 0;
+  width: 49px;
+}
+
+.fu-wu-xiang-mu .view-8 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, #000000 0%, rgba(19, 88, 112, 0.34) 53.2%, rgba(0, 31, 43, 0) 100%);
+  display: flex;
+  height: 500px;
+  justify-content: flex-end;
+  left: 13px;
+  min-width: 1920px;
+  padding: 87.2px 227.0px;
+  position: absolute;
+  top: 443px;
+}
+
+.fu-wu-xiang-mu .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  margin-bottom: 0;
+  min-height: 322px;
+  width: 319px;
+}
+
+.fu-wu-xiang-mu .overlap-group1-1 {
+  height: 133px;
+  margin-left: 0.58px;
+  position: relative;
+  width: 319px;
+}
+
+.fu-wu-xiang-mu .overlap-group-3 {
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 293px;
+}
+
+.fu-wu-xiang-mu .view {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  min-height: 41px;
+  opacity: 0.96;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .rectangle-179 {
+  background-color: var(--gallery);
+  height: 7px;
+  margin-left: 0;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .rectangle-180 {
+  background-color: var(--gallery);
+  height: 7px;
+  margin-left: -17.16px;
+  transform: rotate(-90deg);
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .text-21 {
+  left: 21px;
+  line-height: 54px;
+  position: absolute;
+  top: 18px;
+}
+
+.fu-wu-xiang-mu .social-media {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 83px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .view-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 277px;
+  min-height: 41px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 92px;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .rectangle-180-1 {
+  background-color: var(--gallery);
+  height: 7px;
+  margin-right: -17.16px;
+  margin-top: 17px;
+  transform: rotate(90deg);
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .rectangle-179-1 {
+  background-color: var(--gallery);
+  height: 7px;
+  margin-right: 0;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .group-46 {
+  align-items: flex-start;
+  display: flex;
+  height: 133px;
+  justify-content: flex-end;
+  min-width: 319px;
+}
+
+.fu-wu-xiang-mu .view-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 41px;
+  opacity: 0.96;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .rectangle-179-2 {
+  background-color: var(--eastern-blue);
+  height: 7px;
+  margin-left: 0;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .rectangle-180-2 {
+  background-color: var(--eastern-blue);
+  height: 7px;
+  margin-left: -17.16px;
+  transform: rotate(-90deg);
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .overlap-group {
+  align-self: center;
+  height: 104px;
+  margin-left: 8px;
+  margin-top: 6.36px;
+  position: relative;
+  width: 218px;
+}
+
+.fu-wu-xiang-mu .text-2 {
+  left: 0;
+  line-height: 54px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.fu-wu-xiang-mu .web-design {
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .view-3 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 0;
+  margin-left: 10px;
+  min-height: 41px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .rectangle-180-3 {
+  background-color: var(--eastern-blue);
+  height: 7px;
+  margin-right: -17.16px;
+  margin-top: 17px;
+  transform: rotate(90deg);
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .rectangle-179-3 {
+  background-color: var(--eastern-blue);
+  height: 7px;
+  margin-right: 0;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  margin-bottom: 0;
+  margin-left: 63px;
+  min-height: 322px;
+  width: 319px;
+}
+
+.fu-wu-xiang-mu .group-461 {
+  align-items: flex-start;
+  display: flex;
+  height: 133px;
+  justify-content: flex-end;
+  margin-left: 0.39px;
+  min-width: 319px;
+}
+
+.fu-wu-xiang-mu .overlap-group5 {
+  align-self: center;
+  height: 104px;
+  margin-left: 8px;
+  margin-top: 10.43px;
+  position: relative;
+  width: 218px;
+}
+
+.fu-wu-xiang-mu .marketing {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .overlap-group4 {
+  align-self: center;
+  height: 104px;
+  margin-left: 2px;
+  margin-top: 6.36px;
+  position: relative;
+  width: 226px;
+}
+
+.fu-wu-xiang-mu .text-24 {
+  left: 8px;
+  line-height: 54px;
+  position: absolute;
+  top: 0;
+}
+
+.fu-wu-xiang-mu .event-planing {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .view-9 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 0;
+  margin-left: 8px;
+  min-height: 41px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  margin-left: 63px;
+  min-height: 322px;
+  width: 319px;
+}
+
+.fu-wu-xiang-mu .overlap-group3 {
+  height: 133px;
+  margin-left: 0.19px;
+  position: relative;
+  width: 319px;
+}
+
+.fu-wu-xiang-mu .view-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  min-height: 41px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .text-23 {
+  left: 23px;
+  line-height: 54px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.fu-wu-xiang-mu .design-production {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 24px;
+  font-weight: 600;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .overlap-group6 {
+  height: 133px;
+  position: relative;
+  width: 319px;
+}
+
+.fu-wu-xiang-mu .text-26 {
+  left: 21px;
+  line-height: 54px;
+  position: absolute;
+  top: 24px;
+}
+
+.fu-wu-xiang-mu .multi-media-production {
+  color: var(--gallery);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 20px;
+  font-weight: 600;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 87px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  margin-bottom: 0;
+  margin-left: 64px;
+  min-height: 322px;
+  width: 319px;
+}
+
+.fu-wu-xiang-mu .view-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 41px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .branding {
+  left: 33px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .group-466 {
+  align-items: flex-start;
+  display: flex;
+  height: 133px;
+  justify-content: flex-end;
+  margin-left: 0;
+  min-width: 319px;
+}
+
+.fu-wu-xiang-mu .overlap-group2 {
+  align-self: center;
+  height: 104px;
+  margin-left: 4px;
+  margin-top: 6.36px;
+  position: relative;
+  width: 220px;
+}
+
+.fu-wu-xiang-mu .text-22 {
+  left: 2px;
+  line-height: 54px;
+  position: absolute;
+  top: 0;
+}
+
+.fu-wu-xiang-mu .photography {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .view-12 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 0;
+  margin-left: 12px;
+  min-height: 41px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu .view-container-1 {
+  height: 67px;
+  left: 948px;
+  position: absolute;
+  top: 939px;
+  width: 48px;
+}
+
+.fu-wu-xiang-mu .view-13 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 7px;
+  min-height: 34px;
+  opacity: 0.96;
+  position: absolute;
+  top: 7px;
+  transform: rotate(45.00deg);
+  width: 34px;
+}
+
+.fu-wu-xiang-mu .rectangle-180-7 {
+  background-color: var(--eastern-blue);
+  height: 6px;
+  margin-right: -14.25px;
+  margin-top: 14px;
+  transform: rotate(90deg);
+  width: 34px;
+}
+
+.fu-wu-xiang-mu .rectangle-179-7 {
+  background-color: var(--eastern-blue);
+  height: 6px;
+  margin-right: 0;
+  width: 34px;
+}
+
+.fu-wu-xiang-mu .view-14 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  left: 7px;
+  min-height: 34px;
+  opacity: 0.96;
+  position: absolute;
+  top: 26px;
+  transform: rotate(45.00deg);
+  width: 34px;
+}
+
+.fu-wu-xiang-mu .rectangle-180-8 {
+  background-color: var(--gallery);
+  height: 6px;
+  margin-right: -14.25px;
+  margin-top: 14px;
+  transform: rotate(90deg);
+  width: 34px;
+}
+
+.fu-wu-xiang-mu .rectangle-179-8 {
+  background-color: var(--gallery);
+  height: 6px;
+  margin-right: 0;
+  width: 34px;
+}
+
+.fu-wu-xiang-mu .view-15 {
+  align-items: flex-end;
+  display: flex;
+  gap: 20px;
+  height: 97px;
+  left: 396px;
+  min-width: 1174px;
+  position: absolute;
+  top: 1119px;
+}
+
+.fu-wu-xiang-mu .partner-cooperation {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 80px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 80px;
+  margin-bottom: -10.5px;
+  min-height: 99px;
+  min-width: 932px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .text-29 {
+  color: var(--mercury);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 55px;
+  font-weight: 600;
+  line-height: 55px;
+  margin-bottom: 1.79px;
+  min-height: 75px;
+  min-width: 222px;
+  text-align: center;
+}
+
+.fu-wu-xiang-mu .group-container-3 {
+  height: 831px;
+  left: 0;
+  position: absolute;
+  top: 1254px;
+  width: 1945px;
+}
+
+.fu-wu-xiang-mu .overlap-group1-2 {
+  height: 831px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1945px;
+}
+
+.fu-wu-xiang-mu .group-393 {
+  align-items: flex-start;
+  display: flex;
+  height: 831px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1945px;
+}
+
+.fu-wu-xiang-mu .overlap-group-4 {
+  height: 831px;
+  position: relative;
+  width: 1945px;
+}
+
+.fu-wu-xiang-mu .group-222 {
+  background-image: url(../img/group-221-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 796px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 1945px;
+}
+
+.fu-wu-xiang-mu .group-226 {
+  background-image: url(../img/group-223-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 88px;
+  left: 669px;
+  position: absolute;
+  top: 569px;
+  width: 88px;
+}
+
+.fu-wu-xiang-mu .group-228 {
+  background-image: url(../img/group-227-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 88px;
+  left: 526px;
+  position: absolute;
+  top: 586px;
+  width: 88px;
+}
+
+.fu-wu-xiang-mu .group-230 {
+  background-image: url(../img/group-229-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 171px;
+  left: 377px;
+  position: absolute;
+  top: 452px;
+  width: 171px;
+}
+
+.fu-wu-xiang-mu .group-232 {
+  background-image: url(../img/group-231-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 97px;
+  left: 917px;
+  position: absolute;
+  top: 72px;
+  width: 97px;
+}
+
+.fu-wu-xiang-mu .group-236 {
+  background-image: url(../img/group-233-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 132px;
+  left: 1323px;
+  position: absolute;
+  top: 598px;
+  width: 132px;
+}
+
+.fu-wu-xiang-mu .group-238 {
+  background-image: url(../img/group-237-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90px;
+  left: 1219px;
+  position: absolute;
+  top: 665px;
+  width: 90px;
+}
+
+.fu-wu-xiang-mu .group-240 {
+  background-image: url(../img/group-239-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 147px;
+  left: 931px;
+  position: absolute;
+  top: 477px;
+  width: 147px;
+}
+
+.fu-wu-xiang-mu .group-242 {
+  background-image: url(../img/group-241-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 116px;
+  left: 1456px;
+  position: absolute;
+  top: 59px;
+  width: 116px;
+}
+
+.fu-wu-xiang-mu .group-244 {
+  background-image: url(../img/group-243-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 113px;
+  left: 964px;
+  position: absolute;
+  top: 685px;
+  width: 113px;
+}
+
+.fu-wu-xiang-mu .group-246 {
+  background-image: url(../img/group-245-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 144px;
+  left: 764px;
+  position: absolute;
+  top: 670px;
+  width: 144px;
+}
+
+.fu-wu-xiang-mu .group-248 {
+  background-image: url(../img/group-247-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 124px;
+  left: 560px;
+  position: absolute;
+  top: 211px;
+  width: 124px;
+}
+
+.fu-wu-xiang-mu .group-252 {
+  background-image: url(../img/group-249-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  left: 1463px;
+  position: absolute;
+  top: 602px;
+  width: 57px;
+}
+
+.fu-wu-xiang-mu .group-254 {
+  background-image: url(../img/group-253-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 59px;
+  left: 1485px;
+  position: absolute;
+  top: 423px;
+  width: 59px;
+}
+
+.fu-wu-xiang-mu .group-258 {
+  background-image: url(../img/group-255-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 60px;
+  left: 1366px;
+  position: absolute;
+  top: 60px;
+  width: 84px;
+}
+
+.fu-wu-xiang-mu .group-260 {
+  background-image: url(../img/group-259-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: 579px;
+  position: absolute;
+  top: 59px;
+  width: 48px;
+}
+
+.fu-wu-xiang-mu .group-264 {
+  background-image: url(../img/group-261-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 35px;
+  left: 1329px;
+  position: absolute;
+  top: 434px;
+  width: 94px;
+}
+
+.fu-wu-xiang-mu .group-268 {
+  background-image: url(../img/group-265-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 37px;
+  left: 916px;
+  position: absolute;
+  top: 281px;
+  width: 127px;
+}
+
+.fu-wu-xiang-mu .group-270 {
+  background-image: url(../img/group-269-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 35px;
+  left: 1442px;
+  position: absolute;
+  top: 206px;
+  width: 100px;
+}
+
+.fu-wu-xiang-mu .group-272 {
+  background-image: url(../img/group-271-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 50px;
+  left: 1494px;
+  position: absolute;
+  top: 321px;
+  width: 39px;
+}
+
+.fu-wu-xiang-mu .group-274 {
+  background-image: url(../img/group-273-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  left: 411px;
+  position: absolute;
+  top: 376px;
+  width: 81px;
+}
+
+.fu-wu-xiang-mu .group-276 {
+  background-image: url(../img/group-275-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  left: 1119px;
+  position: absolute;
+  top: 117px;
+  width: 61px;
+}
+
+.fu-wu-xiang-mu .group-278 {
+  background-image: url(../img/group-277-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 63px;
+  left: 1024px;
+  position: absolute;
+  top: 38px;
+  width: 333px;
+}
+
+.fu-wu-xiang-mu .group-280 {
+  background-image: url(../img/group-279-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 76px;
+  left: 1338px;
+  position: absolute;
+  top: 128px;
+  width: 76px;
+}
+
+.fu-wu-xiang-mu .group-282 {
+  background-image: url(../img/group-281-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 123px;
+  left: 1357px;
+  position: absolute;
+  top: 490px;
+  width: 123px;
+}
+
+.fu-wu-xiang-mu .group-284 {
+  background-image: url(../img/group-283-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 53px;
+  left: 436px;
+  position: absolute;
+  top: 138px;
+  width: 53px;
+}
+
+.fu-wu-xiang-mu .group-286 {
+  background-image: url(../img/group-285-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  left: 1253px;
+  position: absolute;
+  top: 121px;
+  width: 57px;
+}
+
+.fu-wu-xiang-mu .group-290 {
+  background-image: url(../img/group-287-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 58px;
+  left: 1386px;
+  position: absolute;
+  top: 252px;
+  width: 58px;
+}
+
+.fu-wu-xiang-mu .group-292 {
+  background-image: url(../img/group-291-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 69px;
+  left: 1068px;
+  position: absolute;
+  top: 631px;
+  width: 122px;
+}
+
+.fu-wu-xiang-mu .group-296 {
+  background-image: url(../img/group-293-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 64px;
+  left: 1252px;
+  position: absolute;
+  top: 620px;
+  width: 81px;
+}
+
+.fu-wu-xiang-mu .group-298 {
+  background-image: url(../img/group-297-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 138px;
+  left: 716px;
+  position: absolute;
+  top: 160px;
+  width: 138px;
+}
+
+.fu-wu-xiang-mu .group-300 {
+  background-image: url(../img/group-299-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 53px;
+  left: 440px;
+  position: absolute;
+  top: 288px;
+  width: 99px;
+}
+
+.fu-wu-xiang-mu .group-302 {
+  background-image: url(../img/group-301-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 66px;
+  left: 1297px;
+  position: absolute;
+  top: 330px;
+  width: 100px;
+}
+
+.fu-wu-xiang-mu .group-306 {
+  background-image: url(../img/group-303-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 51px;
+  left: 719px;
+  position: absolute;
+  top: 272px;
+  width: 64px;
+}
+
+.fu-wu-xiang-mu .group-310 {
+  background-image: url(../img/group-307-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 71px;
+  left: 914px;
+  position: absolute;
+  top: 616px;
+  width: 71px;
+}
+
+.fu-wu-xiang-mu .group-312 {
+  background-image: url(../img/group-311-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 77px;
+  left: 754px;
+  position: absolute;
+  top: 620px;
+  width: 116px;
+}
+
+.fu-wu-xiang-mu .group-314 {
+  background-image: url(../img/group-313-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 79px;
+  left: 799px;
+  position: absolute;
+  top: 239px;
+  width: 106px;
+}
+
+.fu-wu-xiang-mu .group-318 {
+  background-image: url(../img/group-315-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 85px;
+  left: 1239px;
+  position: absolute;
+  top: 547px;
+  width: 85px;
+}
+
+.fu-wu-xiang-mu .group-320 {
+  background-image: url(../img/group-319-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 53px;
+  left: 1445px;
+  position: absolute;
+  top: 711px;
+  width: 100px;
+}
+
+.fu-wu-xiang-mu .group-324 {
+  background-image: url(../img/group-321-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 26px;
+  left: 767px;
+  position: absolute;
+  top: 570px;
+  width: 124px;
+}
+
+.fu-wu-xiang-mu .group-326 {
+  background-image: url(../img/group-325-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 75px;
+  left: 1228px;
+  position: absolute;
+  top: 230px;
+  width: 106px;
+}
+
+.fu-wu-xiang-mu .group-328 {
+  background-image: url(../img/group-327-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  left: 1091px;
+  position: absolute;
+  top: 556px;
+  width: 95px;
+}
+
+.fu-wu-xiang-mu .group-332 {
+  background-image: url(../img/group-329-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 35px;
+  left: 760px;
+  position: absolute;
+  top: 496px;
+  width: 105px;
+}
+
+.fu-wu-xiang-mu .group-334 {
+  background-image: url(../img/group-333-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 41px;
+  left: 555px;
+  position: absolute;
+  top: 423px;
+  width: 44px;
+}
+
+.fu-wu-xiang-mu .group-338 {
+  background-image: url(../img/group-335-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 45px;
+  left: 569px;
+  position: absolute;
+  top: 528px;
+  width: 105px;
+}
+
+.fu-wu-xiang-mu .group-340 {
+  background-image: url(../img/group-339-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 402px;
+  position: absolute;
+  top: 217px;
+  width: 75px;
+}
+
+.fu-wu-xiang-mu .group-344 {
+  background-image: url(../img/group-341-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 93px;
+  left: 1031px;
+  position: absolute;
+  top: 194px;
+  width: 93px;
+}
+
+.fu-wu-xiang-mu .group-346 {
+  background-image: url(../img/group-345-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 64px;
+  left: 599px;
+  position: absolute;
+  top: 324px;
+  width: 67px;
+}
+
+.fu-wu-xiang-mu .group-348 {
+  background-image: url(../img/group-347-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 51px;
+  left: 945px;
+  position: absolute;
+  top: 203px;
+  width: 55px;
+}
+
+.fu-wu-xiang-mu .group-350 {
+  background-image: url(../img/group-349-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 48px;
+  left: 812px;
+  position: absolute;
+  top: 114px;
+  width: 52px;
+}
+
+.fu-wu-xiang-mu .group-354 {
+  background-image: url(../img/group-351-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100px;
+  left: 595px;
+  position: absolute;
+  top: 117px;
+  width: 142px;
+}
+
+.fu-wu-xiang-mu .group-356 {
+  background-image: url(../img/group-355-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 48px;
+  left: 540px;
+  position: absolute;
+  top: 148px;
+  width: 48px;
+}
+
+.fu-wu-xiang-mu .rectangle-347 {
+  background-color: var(--black);
+  height: 28px;
+  left: 396px;
+  position: absolute;
+  top: 69px;
+  width: 103px;
+}
+
+.fu-wu-xiang-mu .group-360 {
+  background-image: url(../img/group-357-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 167px;
+  left: 362px;
+  position: absolute;
+  top: 0;
+  width: 167px;
+}
+
+.fu-wu-xiang-mu .rectangle-351 {
+  background-color: var(--black);
+  height: 29px;
+  left: 681px;
+  position: absolute;
+  top: 78px;
+  width: 70px;
+}
+
+.fu-wu-xiang-mu .group-362 {
+  background-image: url(../img/group-361-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 686px;
+  position: absolute;
+  top: 81px;
+  width: 60px;
+}
+
+.fu-wu-xiang-mu .group-365 {
+  align-items: flex-start;
+  display: flex;
+  height: 70px;
+  left: 419px;
+  overflow: hidden;
+  position: absolute;
+  top: 697px;
+  width: 180px;
+}
+
+.fu-wu-xiang-mu .group-364 {
+  background-image: url(../img/group-363-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 196px;
+  margin-top: -61.98px;
+  width: 180px;
+}
+
+.fu-wu-xiang-mu .group-368 {
+  background-image: url(../img/group-367-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 831px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1945px;
+}
+
+.fu-wu-xiang-mu .group-370 {
+  background-image: url(../img/group-369-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 114px;
+  left: 704px;
+  position: absolute;
+  top: 356px;
+  width: 114px;
+}
+
+.fu-wu-xiang-mu .group-372 {
+  background-image: url(../img/group-371-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 831px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1945px;
+}
+
+.fu-wu-xiang-mu .group-374 {
+  background-image: url(../img/group-373-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 62px;
+  left: 1048px;
+  position: absolute;
+  top: 384px;
+  width: 110px;
+}
+
+.fu-wu-xiang-mu .group-377 {
+  align-items: flex-start;
+  display: flex;
+  height: 76px;
+  left: 1148px;
+  overflow: hidden;
+  position: absolute;
+  top: 383px;
+  width: 112px;
+}
+
+.fu-wu-xiang-mu .group-376 {
+  background-image: url(../img/group-375-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 164px;
+  margin-left: -27px;
+  margin-top: -47.8px;
+  width: 164px;
+}
+
+.fu-wu-xiang-mu .group-381 {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  left: 642px;
+  overflow: hidden;
+  position: absolute;
+  top: 439px;
+  width: 50px;
+}
+
+.fu-wu-xiang-mu .group-380 {
+  background-image: url(../img/group-379-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 62px;
+  margin-left: -5px;
+  margin-top: -5.46px;
+  width: 60px;
+}
+
+.fu-wu-xiang-mu .group-384 {
+  background-image: url(../img/group-383-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 1147px;
+  position: absolute;
+  top: 490px;
+  width: 114px;
+}
+
+.fu-wu-xiang-mu .group-386 {
+  background-image: url(../img/group-385-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 831px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1945px;
+}
+
+.fu-wu-xiang-mu .group-390 {
+  background-image: url(../img/group-387-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 1099px;
+  position: absolute;
+  top: 722px;
+  width: 88px;
+}
+
+.fu-wu-xiang-mu .group-392 {
+  background-image: url(../img/group-391-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 831px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1945px;
+}
+
+.fu-wu-xiang-mu .rectangle-418 {
+  background-color: var(--white);
+  height: 77px;
+  left: 541px;
+  position: absolute;
+  top: 400px;
+  width: 70px;
+}
+
+.fu-wu-xiang-mu .group-481 {
+  align-items: flex-start;
+  background-image: url(../img/group-475-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 72px;
+  left: 456px;
+  min-width: 71px;
+  position: absolute;
+  top: 374px;
+}
+
+.fu-wu-xiang-mu .group-container-4 {
+  height: 72px;
+  position: relative;
+  width: 71px;
+}
+
+.fu-wu-xiang-mu .group-478 {
+  background-image: url(../img/group-477-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  left: 30px;
+  position: absolute;
+  top: 15px;
+  width: 16px;
+}
+
+.fu-wu-xiang-mu .group-480 {
+  background-image: url(../img/group-479-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.fu-wu-xiang-mu .view-16 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #1d85aa;
+  height: 128px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+  z-index: 4;
+}
+
+.fu-wu-xiang-mu .component-12-1 {
+  display: flex;
+  height: 44px;
+  left: 54px;
+  position: fixed;
+  top: 45px;
+  width: 166px;
+  z-index: 5;
+}
+
+.fu-wu-xiang-mu .view-17 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  min-width: 165.94px;
+}
+
+.fu-wu-xiang-mu .overlap-group-5 {
+  height: 44px;
+  position: relative;
+  width: 166px;
+}
+
+.fu-wu-xiang-mu .rectangle-181 {
+  background-color: var(--eastern-blue-2);
+  border-radius: 41px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 129px;
+}
+
+.fu-wu-xiang-mu .text-30 {
+  left: 25px;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+}
+
+.fu-wu-xiang-mu .view-18 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 121px;
+  min-height: 26px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-44.00deg);
+  width: 26px;
+}
+
+.fu-wu-xiang-mu .rectangle-180-4 {
+  background-color: var(--eastern-blue-2);
+  height: 4px;
+  margin-right: -10.91px;
+  margin-top: 11px;
+  transform: rotate(90deg);
+  width: 26px;
+}
+
+.fu-wu-xiang-mu .rectangle-179-4 {
+  background-color: var(--eastern-blue-2);
+  height: 4px;
+  margin-right: 0;
+  width: 26px;
+}
+
+.fu-wu-xiang-mu .view-19 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 134px;
+  min-height: 26px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-44.00deg);
+  width: 26px;
+}
+
+.fu-wu-xiang-mu .view-20 {
+  background-color: var(--black);
+  box-shadow: -5px 3px 6px #1d85aa;
+  height: 6px;
+  left: 1362px;
+  opacity: 0;
+  position: fixed;
+  top: 532px;
+  transform: rotate(90deg);
+  width: 1109px;
+  z-index: 3;
+}
+
+.fu-wu-xiang-mu .fb {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  left: 1627px;
+  min-width: 115px;
+  position: fixed;
+  top: 41px;
+  z-index: 6;
+}
+
+.fu-wu-xiang-mu .overlap-group11 {
+  height: 42px;
+  position: relative;
+  width: 115px;
+}
+
+.fu-wu-xiang-mu .rectangle-101 {
+  background-color: var(--blue);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 33px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 114px;
+}
+
+.fu-wu-xiang-mu .label {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu .fb-ig-17 {
+  height: 18px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.fu-wu-xiang-mu .overlap-group-1 {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.fu-wu-xiang-mu .metadata {
+  height: 12px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 3px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.fu-wu-xiang-mu .bar-statedefault {
+  background-color: var(--white);
+  border-radius: 1000px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 40px;
+}
+
+.fu-wu-xiang-mu .ig {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1758px;
+  min-height: 42px;
+  position: fixed;
+  top: 41px;
+  width: 115px;
+  z-index: 7;
+}
+
+.fu-wu-xiang-mu .metadata-1 {
+  height: 12px;
+  margin-left: 0;
+  margin-top: -61px;
+  width: 10px;
+}
+
+.fu-wu-xiang-mu .overlap-group2-1 {
+  align-self: flex-end;
+  height: 20px;
+  margin-right: 7.21px;
+  margin-top: 3px;
+  position: relative;
+  width: 19px;
+}
+
+.fu-wu-xiang-mu .metadata-2 {
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.fu-wu-xiang-mu .area-display_element {
+  top: 0;
+}
+
+.fu-wu-xiang-mu .x7fba2411-ad5f-4343-8a35-84f8db866da4 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.fu-wu-xiang-mu .overlap-group12 {
+  height: 42px;
+  margin-top: 27px;
+  position: relative;
+  width: 115px;
+}
+
+.fu-wu-xiang-mu .rectangle-102 {
+  background: linear-gradient(110.52deg, #181cf4 6.58%, #7233d4 48.86%, #d14bb3 93.29%);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 33px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 115px;
+}
+
+.fu-wu-xiang-mu .overlap-group1-3 {
+  border-radius: 5px;
+  height: 16px;
+  left: 12px;
+  position: absolute;
+  top: 14px;
+  width: 16px;
+}
+
+.fu-wu-xiang-mu .metadata-3 {
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 8px;
+}
+
+.fu-wu-xiang-mu .area-iconfeatherinst {
+  top: 1px;
+}
+
+.fu-wu-xiang-mu .overlap-group-6 {
+  border: 2.4px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.fu-wu-xiang-mu .x5518700c-e2a4-4ae6-bac4-00281ec06e13 {
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 8px;
+}
+
+.fu-wu-xiang-mu .x6c606586-1912-4eee-85e0-5630e7621e73 {
+  height: 2px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.fu-wu-xiang-mu .view-21 {
+  background-color: var(--black);
+  box-shadow: -5px 3px 6px #1d85aa;
+  height: 937px;
+  left: 1834px;
+  opacity: 0.0;
+  position: fixed;
+  top: 72px;
+  transform: rotate(90deg);
+  width: 1080px;
+  z-index: 2;
+}
+
+.fu-wu-xiang-mu .area {
+  background-color: var(--ceramic);
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+}
+
+.fu-wu-xiang-mu .ellipse {
+  border-radius: 9.24px;
+  height: 18px;
+  width: 18px;
+}
+
+.fu-wu-xiang-mu .metadata-4 {
+  letter-spacing: 0;
+  line-height: 3px;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.fu-wu-xiang-mu .text {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+/* screen - fu-wu-xiang-mu-1-all-breakpoints */
+
+.fu-wu-xiang-mu-1-all-breakpoints {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1047px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-26 {
+  background-color: var(--eerie-black);
+  height: 1047px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 428px;
+  z-index: 1;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-27 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #1d85aa;
+  height: 132px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 428px;
+  z-index: 5;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .fb-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 220px;
+  min-width: 87px;
+  position: fixed;
+  top: 80px;
+  z-index: 6;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group11-1 {
+  height: 32px;
+  position: relative;
+  width: 87px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .label-1 {
+  left: 26px;
+  line-height: 9px;
+  top: 11px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group-7 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .metadata-4 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .ig-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 320px;
+  min-height: 32px;
+  position: fixed;
+  top: 80px;
+  width: 87px;
+  z-index: 7;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .metadata-5 {
+  height: 9px;
+  margin-left: 0;
+  margin-top: -47px;
+  width: 8px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group2-2 {
+  align-self: flex-end;
+  height: 15px;
+  margin-right: 5.01px;
+  margin-top: 1px;
+  position: relative;
+  width: 15px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .metadata-6 {
+  height: 9px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .area-display_element-1 {
+  background-color: var(--ceramic);
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group12-1 {
+  height: 32px;
+  margin-top: 21px;
+  position: relative;
+  width: 87px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .label-2 {
+  left: 25px;
+  line-height: 8px;
+  top: 12px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group1-4 {
+  border-radius: 5px;
+  height: 13px;
+  left: 9px;
+  position: absolute;
+  top: 10px;
+  width: 13px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .metadata-7 {
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group-11 {
+  border: 2.4px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-container-2 {
+  height: 24px;
+  margin-right: 16.0px;
+  margin-top: 84px;
+  position: relative;
+  width: 46px;
+  z-index: 3;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-28 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 14px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-29 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  transform: rotate(224.00deg);
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-179-9 {
+  background-color: var(--eastern-blue);
+  height: 2px;
+  width: 12px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-180-9 {
+  background-color: var(--eastern-blue);
+  height: 2px;
+  margin-left: 4.94px;
+  transform: rotate(-90deg);
+  width: 12px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .x1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  left: 15px;
+  min-width: 46px;
+  position: fixed;
+  top: 84px;
+  z-index: 8;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-container-3 {
+  height: 24px;
+  position: relative;
+  width: 46px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-30 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 14px;
+  min-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-31 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 2px;
+  min-height: 12px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(224.00deg);
+  width: 12px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group14 {
+  height: 926px;
+  margin-right: -61.41px;
+  margin-top: 13px;
+  position: relative;
+  width: 559px;
+  z-index: 2;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-32 {
+  align-items: flex-end;
+  background-image: url(../img/file---1x-png-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 926px;
+  justify-content: flex-end;
+  left: 69px;
+  min-width: 428px;
+  padding: 15px 85px;
+  position: absolute;
+  top: 0;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .x1-1 {
+  height: 220px;
+  left: 87px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 30px;
+  width: 391px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-33 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 108px;
+  min-height: 121px;
+  opacity: 0;
+  position: absolute;
+  top: 50px;
+  width: 352px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-34 {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: 13.0px;
+  margin-top: -4px;
+  min-height: 28px;
+  min-width: 131px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-31 {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: 2px;
+  min-height: 46px;
+  min-width: 200px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-container {
+  height: 46px;
+  margin-top: 4px;
+  position: relative;
+  width: 352px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-32 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-33 {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-112 {
+  background-image: url(../img/group-111-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: 95px;
+  opacity: 0;
+  position: absolute;
+  top: 222px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-34 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, #000000 0%, rgba(19, 88, 112, 0.34) 53.2%, rgba(0, 31, 43, 0) 100%);
+  display: flex;
+  gap: 31px;
+  height: 410px;
+  left: 69px;
+  min-width: 428px;
+  padding: 30.2px 38.0px;
+  position: absolute;
+  top: 139px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-container-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  margin-bottom: 0.3px;
+  min-height: 348px;
+  width: 157px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group-12 {
+  height: 66px;
+  margin-left: 0.08px;
+  position: relative;
+  width: 157px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-22 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 0;
+  min-height: 20px;
+  opacity: 0.96;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-179-10 {
+  background-color: var(--gallery);
+  height: 3px;
+  margin-left: 0;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-180-10 {
+  background-color: var(--gallery);
+  height: 3px;
+  margin-left: -8.44px;
+  transform: rotate(-90deg);
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-23 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 136px;
+  min-height: 20px;
+  opacity: 0.96;
+  position: absolute;
+  top: 45px;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-180-11 {
+  background-color: var(--gallery);
+  height: 3px;
+  margin-right: -8.44px;
+  margin-top: 8px;
+  transform: rotate(90deg);
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-179-11 {
+  background-color: var(--gallery);
+  height: 3px;
+  margin-right: 0;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-35 {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .social-media-1 {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-46-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 66px;
+  min-width: 157px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-24 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 20px;
+  opacity: 0.96;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-179-12 {
+  background-color: var(--eastern-blue);
+  height: 3px;
+  margin-left: 0;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-180-12 {
+  background-color: var(--eastern-blue);
+  height: 3px;
+  margin-left: -8.44px;
+  transform: rotate(-90deg);
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group-8 {
+  align-self: center;
+  height: 52px;
+  margin-left: 4px;
+  margin-top: 5.3px;
+  position: relative;
+  width: 110px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .branding-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-25 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 2px;
+  min-height: 20px;
+  opacity: 0.96;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-180-13 {
+  background-color: var(--eastern-blue);
+  height: 3px;
+  margin-right: -8.44px;
+  margin-top: 8px;
+  transform: rotate(90deg);
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-179-13 {
+  background-color: var(--eastern-blue);
+  height: 3px;
+  margin-right: 0;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-466-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 66px;
+  margin-left: 0.52px;
+  min-width: 157px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group1-5 {
+  align-self: center;
+  height: 52px;
+  margin-left: 2px;
+  margin-top: 5.3px;
+  position: relative;
+  width: 113px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-36 {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .photography-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-35 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 1px;
+  min-height: 20px;
+  opacity: 0.96;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .web-design-1 {
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-container-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  min-height: 349px;
+  width: 157px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-461-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 66px;
+  margin-left: 0.31px;
+  min-width: 157px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-36 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 20px;
+  opacity: 0.96;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group4-1 {
+  height: 52px;
+  margin-bottom: 3.11px;
+  margin-left: 4px;
+  position: relative;
+  width: 110px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .marketing-1 {
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-37 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 2px;
+  min-height: 20px;
+  opacity: 0.96;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group-9 {
+  height: 66px;
+  margin-left: 0.76px;
+  position: relative;
+  width: 157px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-37 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .design-production-1 {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 13px;
+  font-weight: 600;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-40 {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .multi-media-production-1 {
+  color: var(--gallery);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: var(--font-size-xxxl);
+  font-weight: 600;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-464 {
+  align-items: flex-start;
+  display: flex;
+  gap: 1px;
+  height: 66px;
+  min-width: 157px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group3-1 {
+  align-self: flex-end;
+  height: 56px;
+  position: relative;
+  width: 135px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-38 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 115px;
+  min-height: 20px;
+  opacity: 0.96;
+  position: absolute;
+  top: 36px;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-38 {
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .event-planing-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group8 {
+  height: 93px;
+  left: 100px;
+  position: absolute;
+  top: 32px;
+  width: 366px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group-10 {
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 366px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .business-services-1 {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 36px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 58px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 8px 6px #00000029;
+  top: 0;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .instant-theme-switching-tagh3-1 {
+  color: var(--gallery);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 37px;
+  font-weight: 600;
+  left: 187px;
+  letter-spacing: -0.18px;
+  line-height: 46px;
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .ellipse-15-1 {
+  background-color: var(--eastern-blue);
+  border-radius: 3.84px;
+  height: 8px;
+  left: 341px;
+  position: absolute;
+  top: 48px;
+  width: 8px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .ellipse-16-1 {
+  background-color: var(--white);
+  border-radius: 3.84px;
+  height: 8px;
+  left: 355px;
+  position: absolute;
+  top: 48px;
+  width: 8px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-39 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 74px;
+  min-height: 20px;
+  opacity: 0.96;
+  position: absolute;
+  top: 57px;
+  transform: rotate(45.00deg);
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-180-14 {
+  background-color: var(--eastern-blue);
+  height: 3px;
+  margin-right: -8.41px;
+  margin-top: 8px;
+  transform: rotate(90deg);
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-40 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 74px;
+  min-height: 20px;
+  opacity: 0.96;
+  position: absolute;
+  top: 68px;
+  transform: rotate(45.00deg);
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-180-15 {
+  background-color: var(--gallery);
+  height: 3px;
+  margin-right: -8.41px;
+  margin-top: 8px;
+  transform: rotate(90deg);
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-41 {
+  align-items: flex-end;
+  display: flex;
+  gap: 2px;
+  height: 33px;
+  left: 86px;
+  min-width: 396px;
+  position: absolute;
+  top: 591px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .partner-cooperation-1 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-bottom: -5px;
+  min-height: 35px;
+  min-width: 316px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .text-43 {
+  color: var(--mercury);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-bottom: -1.5px;
+  min-height: 28px;
+  min-width: 78px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-container-4 {
+  height: 40px;
+  left: 268px;
+  position: absolute;
+  top: 536px;
+  width: 29px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-42 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 4px;
+  min-height: 20px;
+  opacity: 0.96;
+  position: absolute;
+  top: 4px;
+  transform: rotate(45.00deg);
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-43 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 4px;
+  min-height: 20px;
+  opacity: 0.96;
+  position: absolute;
+  top: 15px;
+  transform: rotate(45.00deg);
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-container-7 {
+  height: 239px;
+  left: 0;
+  position: absolute;
+  top: 626px;
+  width: 559px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group1-6 {
+  height: 239px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 559px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-393-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 239px;
+  left: 0;
+  overflow: hidden;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 0;
+  width: 559px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .overlap-group-13 {
+  height: 239px;
+  margin-top: 0;
+  position: relative;
+  width: 559px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-222-1 {
+  background-image: url(../img/group-221@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 229px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 559px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-226-1 {
+  background-image: url(../img/group-223@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 192px;
+  position: absolute;
+  top: 163px;
+  width: 25px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-228-1 {
+  background-image: url(../img/group-227@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 151px;
+  position: absolute;
+  top: 168px;
+  width: 25px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-230-1 {
+  background-image: url(../img/group-229@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 49px;
+  left: 108px;
+  position: absolute;
+  top: 130px;
+  width: 49px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-232-1 {
+  background-image: url(../img/group-231@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 28px;
+  left: 263px;
+  position: absolute;
+  top: 21px;
+  width: 28px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-236-1 {
+  background-image: url(../img/group-233@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 38px;
+  left: 380px;
+  position: absolute;
+  top: 172px;
+  width: 38px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-238-1 {
+  background-image: url(../img/group-237@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 26px;
+  left: 350px;
+  position: absolute;
+  top: 191px;
+  width: 26px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-240-1 {
+  background-image: url(../img/group-239@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: 267px;
+  position: absolute;
+  top: 137px;
+  width: 42px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-242-1 {
+  background-image: url(../img/group-241@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 33px;
+  left: 418px;
+  position: absolute;
+  top: 17px;
+  width: 33px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-244-1 {
+  background-image: url(../img/group-243@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 33px;
+  left: 277px;
+  position: absolute;
+  top: 197px;
+  width: 33px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-246-1 {
+  background-image: url(../img/group-245@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 41px;
+  left: 219px;
+  position: absolute;
+  top: 192px;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-248-1 {
+  background-image: url(../img/group-247@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 36px;
+  left: 161px;
+  position: absolute;
+  top: 61px;
+  width: 36px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-252-1 {
+  background-image: url(../img/group-249@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 420px;
+  position: absolute;
+  top: 173px;
+  width: 16px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-254-1 {
+  background-image: url(../img/group-253@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  left: 427px;
+  position: absolute;
+  top: 122px;
+  width: 17px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-258-1 {
+  background-image: url(../img/group-255@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  left: 392px;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-260-1 {
+  background-image: url(../img/group-259@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 166px;
+  position: absolute;
+  top: 17px;
+  width: 14px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-264-1 {
+  background-image: url(../img/group-261@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 382px;
+  position: absolute;
+  top: 125px;
+  width: 27px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-268-1 {
+  background-image: url(../img/group-265@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 263px;
+  position: absolute;
+  top: 81px;
+  width: 36px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-270-1 {
+  background-image: url(../img/group-269@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 414px;
+  position: absolute;
+  top: 59px;
+  width: 29px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-272-1 {
+  background-image: url(../img/group-271@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  left: 429px;
+  position: absolute;
+  top: 92px;
+  width: 11px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-274-1 {
+  background-image: url(../img/group-273@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 118px;
+  position: absolute;
+  top: 108px;
+  width: 23px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-276-1 {
+  background-image: url(../img/group-275@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 21px;
+  left: 321px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-278-1 {
+  background-image: url(../img/group-277@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 294px;
+  position: absolute;
+  top: 11px;
+  width: 96px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-280-1 {
+  background-image: url(../img/group-279@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 22px;
+  left: 384px;
+  position: absolute;
+  top: 37px;
+  width: 22px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-282-1 {
+  background-image: url(../img/group-281@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 35px;
+  left: 390px;
+  position: absolute;
+  top: 141px;
+  width: 35px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-284-1 {
+  background-image: url(../img/group-283@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  left: 125px;
+  position: absolute;
+  top: 40px;
+  width: 15px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-286-1 {
+  background-image: url(../img/group-285@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 360px;
+  position: absolute;
+  top: 35px;
+  width: 16px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-290-1 {
+  background-image: url(../img/group-287@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  left: 398px;
+  position: absolute;
+  top: 72px;
+  width: 17px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-292-1 {
+  background-image: url(../img/group-291@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 307px;
+  position: absolute;
+  top: 181px;
+  width: 35px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-296-1 {
+  background-image: url(../img/group-293@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 360px;
+  position: absolute;
+  top: 178px;
+  width: 23px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-298-1 {
+  background-image: url(../img/group-297@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  left: 206px;
+  position: absolute;
+  top: 46px;
+  width: 40px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-300-1 {
+  background-image: url(../img/group-299@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  left: 126px;
+  position: absolute;
+  top: 83px;
+  width: 28px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-302-1 {
+  background-image: url(../img/group-301@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  left: 373px;
+  position: absolute;
+  top: 95px;
+  width: 29px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-306-1 {
+  background-image: url(../img/group-303@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  left: 206px;
+  position: absolute;
+  top: 78px;
+  width: 19px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-310-1 {
+  background-image: url(../img/group-307@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 263px;
+  position: absolute;
+  top: 177px;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-312-1 {
+  background-image: url(../img/group-311@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 22px;
+  left: 217px;
+  position: absolute;
+  top: 178px;
+  width: 33px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-314-1 {
+  background-image: url(../img/group-313@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 229px;
+  position: absolute;
+  top: 69px;
+  width: 30px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-318-1 {
+  background-image: url(../img/group-315@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  left: 356px;
+  position: absolute;
+  top: 157px;
+  width: 24px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-320-1 {
+  background-image: url(../img/group-319@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  left: 415px;
+  position: absolute;
+  top: 204px;
+  width: 29px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-324-1 {
+  background-image: url(../img/group-321@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 8px;
+  left: 220px;
+  position: absolute;
+  top: 164px;
+  width: 36px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-326-1 {
+  background-image: url(../img/group-325@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 22px;
+  left: 353px;
+  position: absolute;
+  top: 66px;
+  width: 30px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-328-1 {
+  background-image: url(../img/group-327@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 313px;
+  position: absolute;
+  top: 160px;
+  width: 27px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-332-1 {
+  background-image: url(../img/group-329@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 218px;
+  position: absolute;
+  top: 142px;
+  width: 30px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-334-1 {
+  background-image: url(../img/group-333@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 159px;
+  position: absolute;
+  top: 122px;
+  width: 13px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-338-1 {
+  background-image: url(../img/group-335@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  left: 164px;
+  position: absolute;
+  top: 152px;
+  width: 30px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-340-1 {
+  background-image: url(../img/group-339@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 115px;
+  position: absolute;
+  top: 62px;
+  width: 22px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-344-1 {
+  background-image: url(../img/group-341@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 27px;
+  left: 296px;
+  position: absolute;
+  top: 56px;
+  width: 27px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-346-1 {
+  background-image: url(../img/group-345@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 172px;
+  position: absolute;
+  top: 93px;
+  width: 19px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-348-1 {
+  background-image: url(../img/group-347@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  left: 272px;
+  position: absolute;
+  top: 58px;
+  width: 16px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-350-1 {
+  background-image: url(../img/group-349@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  left: 233px;
+  position: absolute;
+  top: 33px;
+  width: 15px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-354-1 {
+  background-image: url(../img/group-351@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 29px;
+  left: 171px;
+  position: absolute;
+  top: 34px;
+  width: 41px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-356-1 {
+  background-image: url(../img/group-355@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  left: 155px;
+  position: absolute;
+  top: 43px;
+  width: 14px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-347-1 {
+  background-color: var(--black);
+  height: 8px;
+  left: 114px;
+  position: absolute;
+  top: 20px;
+  width: 30px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-360-1 {
+  background-image: url(../img/group-357@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 48px;
+  left: 104px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-351-1 {
+  background-color: var(--black);
+  height: 8px;
+  left: 196px;
+  position: absolute;
+  top: 22px;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-362-1 {
+  background-image: url(../img/group-361@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  left: 197px;
+  position: absolute;
+  top: 23px;
+  width: 17px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-365-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 20px;
+  left: 120px;
+  overflow: hidden;
+  position: absolute;
+  top: 200px;
+  width: 52px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-364-1 {
+  background-image: url(../img/group-363@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 56px;
+  margin-top: -17.8px;
+  width: 52px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-368-1 {
+  background-image: url(../img/group-367@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 239px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 559px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-370-1 {
+  background-image: url(../img/group-369@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 33px;
+  left: 202px;
+  position: absolute;
+  top: 102px;
+  width: 33px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-372-1 {
+  background-image: url(../img/group-371-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 239px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 559px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-374-1 {
+  background-image: url(../img/group-373@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 301px;
+  position: absolute;
+  top: 110px;
+  width: 32px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-377-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 330px;
+  overflow: hidden;
+  position: absolute;
+  top: 110px;
+  width: 32px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-376-1 {
+  background-image: url(../img/group-375@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 47px;
+  margin-left: -8px;
+  margin-top: -13.73px;
+  width: 47px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-381-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 15px;
+  left: 184px;
+  overflow: hidden;
+  position: absolute;
+  top: 126px;
+  width: 14px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-380-1 {
+  background-image: url(../img/group-379@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  margin-left: -2px;
+  margin-top: -1.57px;
+  width: 17px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-384-1 {
+  background-image: url(../img/group-383@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  left: 329px;
+  position: absolute;
+  top: 141px;
+  width: 33px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-386-1 {
+  background-image: url(../img/group-385@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 239px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 559px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-390-1 {
+  background-image: url(../img/group-387@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 316px;
+  position: absolute;
+  top: 207px;
+  width: 25px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-392-1 {
+  background-image: url(../img/group-391@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 239px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 559px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .rectangle-418-1 {
+  background-color: var(--white);
+  height: 22px;
+  left: 155px;
+  position: absolute;
+  top: 115px;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-481-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-475@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 21px;
+  left: 131px;
+  min-width: 20px;
+  position: absolute;
+  top: 108px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-container-8 {
+  height: 21px;
+  margin-top: 0;
+  position: relative;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-478-1 {
+  background-image: url(../img/group-477@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 8px;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .group-480-1 {
+  background-image: url(../img/group-479@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .view-44 {
+  background-color: var(--black);
+  height: 232px;
+  left: 0;
+  opacity: 0;
+  position: fixed;
+  top: 145px;
+  width: 428px;
+  z-index: 4;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .label {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fu-wu-xiang-mu-1-all-breakpoints .metadata {
+  letter-spacing: 0;
+  line-height: 3px;
+  opacity: 0;
+  overflow: hidden;
+}
+@media screen and (max-width: 1919px) {
+  .screen.fu-wu-xiang-mu { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.fu-wu-xiang-mu-1-all-breakpoints { 
+    display: none;
+   }
+}

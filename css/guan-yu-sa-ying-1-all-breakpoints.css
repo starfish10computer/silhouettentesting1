@@ -1,0 +1,2603 @@
+/* screen - guan-yu-sa-ying */
+
+.guan-yu-sa-ying {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2283px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.guan-yu-sa-ying .overlap-group15 {
+  align-items: center;
+  background-color: var(--eerie-black);
+  display: flex;
+  flex-direction: column;
+  min-height: 2283px;
+  width: 1920px;
+  z-index: 1;
+}
+
+.guan-yu-sa-ying .view {
+  align-items: center;
+  background: linear-gradient(180deg, #000000 0%, rgba(19, 88, 112, 0.34) 53.2%, rgba(0, 31, 43, 0) 100%);
+  border: 4px solid;
+  border-color: var(--eastern-blue);
+  border-radius: 29px;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  margin-left: 1.0px;
+  margin-top: 171px;
+  min-height: 344px;
+  padding: 6.0px 3.0px;
+  width: 1823px;
+}
+
+.guan-yu-sa-ying .overlap-group1 {
+  height: 84px;
+  margin-right: 1.0px;
+  margin-top: 20px;
+  position: relative;
+  width: 462px;
+}
+
+.guan-yu-sa-ying .text-58 {
+  left: 323px;
+  letter-spacing: 1.86px;
+  line-height: 43px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .overlap-group-4 {
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 462px;
+}
+
+.guan-yu-sa-ying .service-process {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 56px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .ellipse-13 {
+  background-color: var(--white);
+  border-radius: 7px/7.5px;
+  height: 15px;
+  left: 448px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.guan-yu-sa-ying .group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 206px;
+  margin-right: 11.0px;
+  min-width: 1806px;
+}
+
+.guan-yu-sa-ying .group-container-1 {
+  align-self: flex-end;
+  height: 192px;
+  position: relative;
+  width: 919px;
+}
+
+.guan-yu-sa-ying .group-458 {
+  align-items: flex-start;
+  display: flex;
+  height: 191px;
+  left: 0;
+  min-width: 438px;
+  position: absolute;
+  top: 1px;
+}
+
+.guan-yu-sa-ying .group-453 {
+  align-items: flex-end;
+  background-color: var(--eastern-blue);
+  display: flex;
+  height: 52px;
+  margin-top: 8.0px;
+  min-width: 44px;
+  padding: 0 13px;
+}
+
+.guan-yu-sa-ying .number {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-bottom: -3.5px;
+  min-height: 51px;
+  min-width: 17px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .path-9573 {
+  height: 63px;
+  margin-left: 23px;
+  margin-top: 3.01px;
+  object-fit: cover;
+  width: 79px;
+}
+
+.guan-yu-sa-ying .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: 16px;
+  margin-top: -2.5px;
+  min-height: 193px;
+  width: 275px;
+}
+
+.guan-yu-sa-ying .overlap-group {
+  height: 45px;
+  position: relative;
+  width: 167px;
+}
+
+.guan-yu-sa-ying .text {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 41px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .overlap-group-5 {
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  top: 37px;
+  width: 166px;
+}
+
+.guan-yu-sa-ying .rectangle-109 {
+  background-color: var(--eastern-blue);
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 161px;
+}
+
+.guan-yu-sa-ying .rectangle-110 {
+  background-color: var(--eastern-blue);
+  height: 3px;
+  left: 160px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(-90deg);
+  width: 8px;
+}
+
+.guan-yu-sa-ying .text-60 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1.0px;
+  min-height: 142px;
+  width: 274px;
+}
+
+.guan-yu-sa-ying .group-459 {
+  align-items: flex-start;
+  display: flex;
+  height: 136px;
+  left: 437px;
+  min-width: 481px;
+  position: absolute;
+  top: 0;
+}
+
+.guan-yu-sa-ying .group-452 {
+  align-items: flex-end;
+  background-color: var(--eastern-blue);
+  display: flex;
+  height: 52px;
+  justify-content: flex-end;
+  margin-top: 7.64px;
+  min-width: 44px;
+  padding: 0 7.8px;
+}
+
+.guan-yu-sa-ying .number-1 {
+  line-height: 38px;
+  margin-bottom: -3.23px;
+  min-height: 49px;
+  min-width: 24px;
+}
+
+.guan-yu-sa-ying .path-container {
+  height: 81px;
+  margin-left: 22px;
+  margin-top: 0;
+  position: relative;
+  width: 81px;
+}
+
+.guan-yu-sa-ying .path-9574 {
+  height: 37px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 37px;
+}
+
+.guan-yu-sa-ying .path-9575 {
+  height: 37px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 37px;
+}
+
+.guan-yu-sa-ying .path-9576 {
+  height: 37px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 37px;
+}
+
+.guan-yu-sa-ying .path-9577 {
+  height: 37px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.guan-yu-sa-ying .flex-col-1 {
+  align-self: flex-end;
+  gap: 5px;
+  margin-bottom: 0.5px;
+  margin-left: 16px;
+  min-height: 132px;
+  width: 319px;
+}
+
+.guan-yu-sa-ying .overlap-group-1 {
+  height: 45px;
+  position: relative;
+  width: 168px;
+}
+
+.guan-yu-sa-ying .overlap-group-2 {
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 37px;
+  width: 166px;
+}
+
+.guan-yu-sa-ying .text-61 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 26px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .text-62 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1.68px;
+  min-height: 82px;
+  width: 317px;
+}
+
+.guan-yu-sa-ying .group-460 {
+  align-items: flex-start;
+  display: flex;
+  height: 149px;
+  justify-content: flex-end;
+  margin-left: 6px;
+  margin-top: 2.0px;
+  min-width: 452px;
+}
+
+.guan-yu-sa-ying .group-454 {
+  align-items: flex-end;
+  background-color: var(--eastern-blue);
+  display: flex;
+  height: 52px;
+  justify-content: flex-end;
+  margin-top: 17.0px;
+  min-width: 43px;
+  padding: 0 8px;
+}
+
+.guan-yu-sa-ying .number-2 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 40px;
+  margin-bottom: -4.5px;
+  min-height: 51px;
+  min-width: 25px;
+}
+
+.guan-yu-sa-ying .path-9572 {
+  height: 65px;
+  margin-left: 32px;
+  margin-top: 9.84px;
+  object-fit: cover;
+  width: 65px;
+}
+
+.guan-yu-sa-ying .flex-col-2 {
+  gap: 4px;
+  margin-left: 23px;
+  margin-top: -2.5px;
+  min-height: 151px;
+  width: 289px;
+}
+
+.guan-yu-sa-ying .overlap-group-6 {
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  top: 36px;
+  width: 166px;
+}
+
+.guan-yu-sa-ying .text_label {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1.0px;
+  min-height: 102px;
+  width: 288px;
+}
+
+.guan-yu-sa-ying .group-461 {
+  align-items: flex-start;
+  display: flex;
+  height: 131px;
+  margin-left: 3px;
+  min-width: 426px;
+}
+
+.guan-yu-sa-ying .group-456 {
+  align-items: flex-end;
+  background-color: var(--eastern-blue);
+  display: flex;
+  height: 53px;
+  margin-top: 16.0px;
+  min-width: 45px;
+  padding: 0 7px;
+}
+
+.guan-yu-sa-ying .number-3 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 41px;
+  font-weight: 600;
+  line-height: 41px;
+  margin-bottom: -6.5px;
+  min-height: 52px;
+  min-width: 30px;
+}
+
+.guan-yu-sa-ying .element {
+  height: 65px;
+  margin-left: 30px;
+  margin-top: 8.38px;
+  object-fit: cover;
+  width: 61px;
+}
+
+.guan-yu-sa-ying .flex-col-3 {
+  gap: 6px;
+  margin-left: 26px;
+  margin-top: -2.5px;
+  min-height: 133px;
+  width: 263px;
+}
+
+.guan-yu-sa-ying .text-65 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 2.0px;
+  min-height: 82px;
+  width: 261px;
+}
+
+.guan-yu-sa-ying .overlap-group7 {
+  height: 735px;
+  margin-top: 76px;
+  position: relative;
+  width: 1920px;
+}
+
+.guan-yu-sa-ying .x3 {
+  height: 696px;
+  left: 599px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 685px;
+}
+
+.guan-yu-sa-ying .rectangle-186 {
+  background-color: var(--eastern-blue);
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 695px;
+  width: 1920px;
+}
+
+.guan-yu-sa-ying .name {
+  left: 436px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 218px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .jacky-lou {
+  left: 1109px;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 52px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .name-1 {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-noto_sans);
+  font-size: 42px;
+  font-weight: 600;
+  left: 1203px;
+  letter-spacing: 0;
+  line-height: 42px;
+  position: absolute;
+  top: 320px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .span1 {
+  font-family: var(--font-family-montserrat_alternates);
+}
+
+.guan-yu-sa-ying .text-66 {
+  left: 565px;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  top: 254px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .text-67 {
+  left: 1109px;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  top: 94px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .text-68 {
+  left: 1203px;
+  letter-spacing: 0;
+  line-height: 34px;
+  position: absolute;
+  top: 365px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .text-69 {
+  left: 470px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 266px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .text-70 {
+  left: 1220px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 108px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .text-71 {
+  left: 1313px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 378px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .view-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 676px;
+  min-height: 18px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 251px;
+  transform: rotate(225deg);
+  width: 18px;
+}
+
+.guan-yu-sa-ying .rectangle-180-2 {
+  background-color: var(--eastern-blue);
+  height: 3px;
+  margin-left: -7.51px;
+  margin-top: 8px;
+  transform: rotate(90deg);
+  width: 18px;
+}
+
+.guan-yu-sa-ying .rectangle-179 {
+  background-color: var(--eastern-blue);
+  height: 3px;
+  margin-left: 0;
+  width: 18px;
+}
+
+.guan-yu-sa-ying .view-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 1084px;
+  min-height: 18px;
+  opacity: 0.96;
+  position: absolute;
+  top: 86px;
+  transform: rotate(-45.00deg);
+  width: 18px;
+}
+
+.guan-yu-sa-ying .rectangle-180 {
+  background-color: var(--eastern-blue);
+  height: 3px;
+  margin-left: -7.51px;
+  transform: rotate(-90deg);
+  width: 18px;
+}
+
+.guan-yu-sa-ying .view-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 1179px;
+  min-height: 18px;
+  opacity: 0.96;
+  position: absolute;
+  top: 356px;
+  transform: rotate(-45.00deg);
+  width: 18px;
+}
+
+.guan-yu-sa-ying .overlap-group16 {
+  height: 931px;
+  margin-top: 26px;
+  position: relative;
+  width: 1920px;
+}
+
+.guan-yu-sa-ying .group-462 {
+  align-items: flex-end;
+  background-image: url(../img/file--@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 887px;
+  left: 0;
+  min-width: 1920px;
+  padding: 12px 732px;
+  position: absolute;
+  top: 44px;
+}
+
+.guan-yu-sa-ying .copyright {
+  height: 34px;
+  object-fit: cover;
+  width: 456px;
+}
+
+.guan-yu-sa-ying .view-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 52px;
+  min-height: 444px;
+  position: absolute;
+  top: 44px;
+  width: 710px;
+}
+
+.guan-yu-sa-ying .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 109px;
+  min-width: 709px;
+}
+
+.guan-yu-sa-ying .overlap-group11 {
+  height: 103px;
+  position: relative;
+  width: 285px;
+}
+
+.guan-yu-sa-ying .view-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  min-height: 47px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.guan-yu-sa-ying .rectangle-179-2 {
+  background-color: var(--eastern-blue);
+  height: 8px;
+  margin-left: 0;
+  width: 47px;
+}
+
+.guan-yu-sa-ying .rectangle-180-3 {
+  background-color: var(--eastern-blue);
+  height: 8px;
+  margin-left: -19.77px;
+  transform: rotate(-90deg);
+  width: 47px;
+}
+
+.guan-yu-sa-ying .text-73 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 65px;
+  font-weight: 600;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 65px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .overlap-group12 {
+  align-self: flex-end;
+  height: 58px;
+  position: relative;
+  width: 408px;
+}
+
+.guan-yu-sa-ying .view-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 361px;
+  min-height: 47px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 11px;
+  width: 47px;
+}
+
+.guan-yu-sa-ying .rectangle-180-4 {
+  background-color: var(--eastern-blue);
+  height: 8px;
+  margin-right: -19.77px;
+  margin-top: 20px;
+  transform: rotate(90deg);
+  width: 47px;
+}
+
+.guan-yu-sa-ying .rectangle-179-3 {
+  background-color: var(--eastern-blue);
+  height: 8px;
+  margin-right: 0;
+  width: 47px;
+}
+
+.guan-yu-sa-ying .culture-concept {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .overlap-group10 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 0.4px;
+  min-height: 311px;
+  padding: 18.6px 11.4px;
+  width: 710px;
+}
+
+.guan-yu-sa-ying .ellipse-14 {
+  background-color: var(--white);
+  border-radius: 7.16px/7.87px;
+  height: 16px;
+  width: 14px;
+}
+
+.guan-yu-sa-ying .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  min-width: 619px;
+}
+
+.guan-yu-sa-ying .ellipse-15 {
+  background-color: var(--eastern-blue);
+  border-radius: 7.16px;
+  height: 14px;
+  margin-top: 98.09px;
+  width: 14px;
+}
+
+.guan-yu-sa-ying .text-container {
+  height: 243px;
+  position: relative;
+  width: 595px;
+}
+
+.guan-yu-sa-ying .text-74 {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 20px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .text-75 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 20px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 150px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .view-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 900px;
+  min-height: 847px;
+  position: absolute;
+  top: 0;
+  width: 957px;
+}
+
+.guan-yu-sa-ying .overlap-group14 {
+  height: 158px;
+  margin-left: 24px;
+  margin-top: 7px;
+  position: relative;
+  width: 590px;
+}
+
+.guan-yu-sa-ying .silhouetten-team {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 64px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 64px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .text-76 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 64px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 64px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .overlap-group13 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  flex-direction: column;
+  min-height: 671px;
+  padding: 0.5px 12px;
+  width: 957px;
+}
+
+.guan-yu-sa-ying .text-77 {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 23px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 37px;
+  margin-left: 14px;
+  margin-top: 34px;
+  min-height: 218px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .text-79 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 23px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 37px;
+  margin-left: 14px;
+  margin-top: 2px;
+  min-height: 107px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .text-78 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: 36px;
+  min-height: 90px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .span0 {
+  color: #1c82a7;
+}
+
+.guan-yu-sa-ying .span2 {
+  color: #1d81a5;
+}
+
+.guan-yu-sa-ying .span-1 {
+  color: var(--jelly-bean);
+}
+
+.guan-yu-sa-ying .flex-row-1 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 33px;
+  height: 144px;
+  margin-right: 4.0px;
+  margin-top: 38px;
+  min-width: 525px;
+}
+
+.guan-yu-sa-ying .view-8 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-bottom: 6.54px;
+  min-height: 52px;
+  opacity: 0.96;
+  transform: rotate(-45.00deg);
+  width: 52px;
+}
+
+.guan-yu-sa-ying .rectangle-180-5 {
+  background-color: var(--eastern-blue);
+  height: 9px;
+  margin-right: -21.57px;
+  margin-top: 22px;
+  transform: rotate(90deg);
+  width: 52px;
+}
+
+.guan-yu-sa-ying .rectangle-179-4 {
+  background-color: var(--eastern-blue);
+  height: 9px;
+  margin-right: 0;
+  width: 52px;
+}
+
+.guan-yu-sa-ying .title {
+  color: var(--jelly-bean);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 117px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 117px;
+  min-height: 144px;
+  min-width: 440px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .span0-1 {
+  color: var(--white);
+}
+
+.guan-yu-sa-ying .view-9 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #1d85aa;
+  height: 128px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+  z-index: 4;
+}
+
+.guan-yu-sa-ying .component-11-1 {
+  display: flex;
+  height: 44px;
+  left: 54px;
+  position: fixed;
+  top: 45px;
+  width: 166px;
+  z-index: 5;
+}
+
+.guan-yu-sa-ying .view-10 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  min-width: 165.94px;
+}
+
+.guan-yu-sa-ying .overlap-group-7 {
+  height: 44px;
+  position: relative;
+  width: 166px;
+}
+
+.guan-yu-sa-ying .rectangle-181 {
+  background-color: var(--eastern-blue-2);
+  border-radius: 41px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 129px;
+}
+
+.guan-yu-sa-ying .text-72 {
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .view-11 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 121px;
+  min-height: 26px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-44.00deg);
+  width: 26px;
+}
+
+.guan-yu-sa-ying .rectangle-180-1 {
+  background-color: var(--eastern-blue-2);
+  height: 4px;
+  margin-right: -10.91px;
+  margin-top: 11px;
+  transform: rotate(90deg);
+  width: 26px;
+}
+
+.guan-yu-sa-ying .rectangle-179-1 {
+  background-color: var(--eastern-blue-2);
+  height: 4px;
+  margin-right: 0;
+  width: 26px;
+}
+
+.guan-yu-sa-ying .view-12 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 134px;
+  min-height: 26px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-44.00deg);
+  width: 26px;
+}
+
+.guan-yu-sa-ying .view-13 {
+  background-color: var(--black);
+  box-shadow: -5px 3px 6px #1d85aa;
+  height: 6px;
+  left: 1362px;
+  opacity: 0;
+  position: fixed;
+  top: 532px;
+  transform: rotate(90deg);
+  width: 1109px;
+  z-index: 3;
+}
+
+.guan-yu-sa-ying .fb {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  left: 1627px;
+  min-width: 115px;
+  position: fixed;
+  top: 41px;
+  z-index: 6;
+}
+
+.guan-yu-sa-ying .overlap-group8 {
+  height: 42px;
+  position: relative;
+  width: 115px;
+}
+
+.guan-yu-sa-ying .rectangle-101 {
+  background-color: var(--blue);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 33px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 114px;
+}
+
+.guan-yu-sa-ying .label {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying .fb-ig-17 {
+  height: 18px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.guan-yu-sa-ying .overlap-group-3 {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.guan-yu-sa-ying .metadata {
+  height: 12px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 3px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.guan-yu-sa-ying .bar-statedefault {
+  background-color: var(--white);
+  border-radius: 1000px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 40px;
+}
+
+.guan-yu-sa-ying .ig {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1758px;
+  min-height: 42px;
+  position: fixed;
+  top: 41px;
+  width: 115px;
+  z-index: 7;
+}
+
+.guan-yu-sa-ying .metadata-1 {
+  height: 12px;
+  margin-left: 0;
+  margin-top: -61px;
+  width: 10px;
+}
+
+.guan-yu-sa-ying .overlap-group2 {
+  align-self: flex-end;
+  height: 20px;
+  margin-right: 7.21px;
+  margin-top: 3px;
+  position: relative;
+  width: 19px;
+}
+
+.guan-yu-sa-ying .metadata-2 {
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.guan-yu-sa-ying .area-display_element {
+  top: 0;
+}
+
+.guan-yu-sa-ying .x7fba2411-ad5f-4343-8a35-84f8db866da4 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.guan-yu-sa-ying .overlap-group9 {
+  height: 42px;
+  margin-top: 27px;
+  position: relative;
+  width: 115px;
+}
+
+.guan-yu-sa-ying .rectangle-102 {
+  background: linear-gradient(110.52deg, #181cf4 6.58%, #7233d4 48.86%, #d14bb3 93.29%);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 33px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 115px;
+}
+
+.guan-yu-sa-ying .overlap-group1-1 {
+  border-radius: 5px;
+  height: 16px;
+  left: 12px;
+  position: absolute;
+  top: 14px;
+  width: 16px;
+}
+
+.guan-yu-sa-ying .metadata-3 {
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 8px;
+}
+
+.guan-yu-sa-ying .area-iconfeatherinst {
+  top: 1px;
+}
+
+.guan-yu-sa-ying .overlap-group-8 {
+  border: 2.4px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.guan-yu-sa-ying .x5518700c-e2a4-4ae6-bac4-00281ec06e13 {
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 8px;
+}
+
+.guan-yu-sa-ying .x6c606586-1912-4eee-85e0-5630e7621e73 {
+  height: 2px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.guan-yu-sa-ying .view-14 {
+  background-color: var(--black);
+  box-shadow: -5px 3px 6px #1d85aa;
+  height: 937px;
+  left: 1834px;
+  opacity: 0.0;
+  position: fixed;
+  top: 72px;
+  transform: rotate(90deg);
+  width: 1080px;
+  z-index: 2;
+}
+
+.guan-yu-sa-ying .area {
+  background-color: var(--ceramic);
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+}
+
+.guan-yu-sa-ying .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.guan-yu-sa-ying .metadata-4 {
+  letter-spacing: 0;
+  line-height: 3px;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.guan-yu-sa-ying .number-4 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+/* screen - guan-yu-sa-ying-1-all-breakpoints */
+
+.guan-yu-sa-ying-1-all-breakpoints {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1859px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-15 {
+  background-color: var(--eerie-black);
+  height: 1859px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 428px;
+  z-index: 1;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-16 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #1d85aa;
+  height: 132px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 428px;
+  z-index: 6;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .fb-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 220px;
+  min-width: 87px;
+  position: fixed;
+  top: 80px;
+  z-index: 7;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group18 {
+  height: 32px;
+  position: relative;
+  width: 87px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .label-1 {
+  left: 26px;
+  line-height: 9px;
+  top: 11px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group-9 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .metadata-4 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .ig-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 320px;
+  min-height: 32px;
+  position: fixed;
+  top: 80px;
+  width: 87px;
+  z-index: 8;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .metadata-5 {
+  height: 9px;
+  margin-left: 0;
+  margin-top: -47px;
+  width: 8px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group2-1 {
+  align-self: flex-end;
+  height: 15px;
+  margin-right: 5.01px;
+  margin-top: 1px;
+  position: relative;
+  width: 15px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .metadata-6 {
+  height: 9px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .area-display_element-1 {
+  background-color: var(--ceramic);
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group19 {
+  height: 32px;
+  margin-top: 21px;
+  position: relative;
+  width: 87px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .label-2 {
+  left: 25px;
+  line-height: 8px;
+  top: 12px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group1-3 {
+  border-radius: 5px;
+  height: 13px;
+  left: 9px;
+  position: absolute;
+  top: 10px;
+  width: 13px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .metadata-7 {
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group-11 {
+  border: 2.4px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-container {
+  height: 24px;
+  margin-right: 16.0px;
+  margin-top: 84px;
+  position: relative;
+  width: 46px;
+  z-index: 3;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-17 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 14px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  transform: rotate(224.00deg);
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-179-5 {
+  background-color: var(--eastern-blue);
+  height: 2px;
+  width: 12px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-180-6 {
+  background-color: var(--eastern-blue);
+  height: 2px;
+  margin-left: 4.94px;
+  transform: rotate(-90deg);
+  width: 12px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .x1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  left: 15px;
+  min-width: 46px;
+  position: fixed;
+  top: 84px;
+  z-index: 9;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-container-1 {
+  height: 24px;
+  position: relative;
+  width: 46px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-19 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 14px;
+  min-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 2px;
+  min-height: 12px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(224.00deg);
+  width: 12px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-21 {
+  background-color: var(--black);
+  height: 232px;
+  left: 0;
+  opacity: 0;
+  position: fixed;
+  top: 145px;
+  width: 428px;
+  z-index: 4;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group23 {
+  align-self: center;
+  height: 507px;
+  margin-right: 1.0px;
+  margin-top: 43px;
+  position: relative;
+  width: 391px;
+  z-index: 5;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .x1-1 {
+  height: 220px;
+  left: 0;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  width: 391px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-22 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 21px;
+  min-height: 121px;
+  opacity: 0;
+  position: absolute;
+  top: 20px;
+  width: 352px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-83 {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: 13.0px;
+  margin-top: -4px;
+  min-height: 28px;
+  min-width: 131px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-80 {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: 2px;
+  min-height: 46px;
+  min-width: 200px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-container-1 {
+  height: 46px;
+  margin-top: 4px;
+  position: relative;
+  width: 352px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-81 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-82 {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .group-112 {
+  background-image: url(../img/group-111-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: 8px;
+  opacity: 0;
+  position: absolute;
+  top: 192px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-23 {
+  align-items: center;
+  background: linear-gradient(180deg, #000000 0%, rgba(19, 88, 112, 0.34) 53.2%, rgba(0, 31, 43, 0) 100%);
+  border: 4px solid;
+  border-color: var(--eastern-blue);
+  border-radius: 29px;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  left: 14px;
+  min-height: 497px;
+  padding: 21.0px 3px;
+  position: absolute;
+  top: 10px;
+  width: 364px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group1-4 {
+  height: 60px;
+  margin-right: 2.0px;
+  position: relative;
+  width: 314px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-84 {
+  left: 220px;
+  letter-spacing: 1.31px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group-12 {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 314px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .service-process-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 63px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .ellipse-13-1 {
+  background-color: var(--eastern-blue);
+  border-radius: 5px;
+  height: 10px;
+  left: 304px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 361px;
+  margin-right: 7.0px;
+  min-width: 351px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .flex-row-3 {
+  align-items: center;
+  display: flex;
+  gap: 13px;
+  height: 313px;
+  margin-top: 3.75px;
+  min-width: 87px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.25px;
+  min-height: 307px;
+  width: 26px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .group-453-1 {
+  align-items: flex-end;
+  background-color: var(--eastern-blue);
+  display: flex;
+  height: 31px;
+  justify-content: flex-end;
+  min-width: 26px;
+  padding: 0 6px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .number-5 {
+  margin-bottom: -3.5px;
+  min-width: 12px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .group-452-1 {
+  align-items: flex-end;
+  background-color: var(--eastern-blue);
+  display: flex;
+  height: 31px;
+  justify-content: flex-end;
+  margin-top: 64px;
+  min-width: 26px;
+  padding: 0 2px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .number-4 {
+  margin-bottom: -4.5px;
+  min-width: 17px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .group-454-1 {
+  align-items: flex-end;
+  background-color: var(--eastern-blue);
+  display: flex;
+  height: 31px;
+  justify-content: flex-end;
+  margin-top: 64px;
+  min-width: 26px;
+  padding: 0 3px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .group-456-1 {
+  align-items: flex-end;
+  background-color: var(--eastern-blue);
+  display: flex;
+  height: 31px;
+  justify-content: flex-end;
+  margin-top: 55px;
+  min-width: 26px;
+  padding: 0 3px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .number-6 {
+  margin-bottom: -4.5px;
+  min-width: 19px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .flex-col-4 {
+  align-items: center;
+  min-height: 313px;
+  width: 48px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .path-9573-1 {
+  height: 38px;
+  margin-left: 0.81px;
+  object-fit: cover;
+  width: 47px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .path-container-1 {
+  height: 48px;
+  margin-right: 0;
+  margin-top: 56px;
+  position: relative;
+  width: 48px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .path-9574-1 {
+  height: 22px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 22px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .path-9575-1 {
+  height: 22px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 22px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .path-9576-1 {
+  height: 22px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 22px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .path-9577-1 {
+  height: 22px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .path-9572-1 {
+  height: 39px;
+  margin-left: 0.81px;
+  margin-top: 48px;
+  object-fit: cover;
+  width: 39px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .element-1 {
+  height: 39px;
+  margin-right: 1.39px;
+  margin-top: 46px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .flex-col-5 {
+  align-items: flex-start;
+  min-height: 361px;
+  width: 254px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group9-1 {
+  height: 127px;
+  position: relative;
+  width: 232px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-8 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group-container-1 {
+  flex-direction: column;
+  gap: 2px;
+  left: 0;
+  min-height: 100px;
+  position: absolute;
+  top: 23px;
+  width: 232px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group2-2 {
+  height: 5px;
+  margin-left: 1px;
+  position: relative;
+  width: 99px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-109-1 {
+  background-color: var(--eastern-blue);
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 96px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-110-1 {
+  background-color: var(--eastern-blue);
+  height: 2px;
+  left: 96px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-90deg);
+  width: 5px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-container-2 {
+  height: 93px;
+  position: relative;
+  width: 232px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-86 {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 0;
+  width: 231px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-87 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 69px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group3 {
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 121px;
+  width: 99px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-90 {
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-left: 1px;
+  margin-top: 4px;
+  min-height: 44px;
+  width: 237px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group1-2 {
+  height: 28px;
+  margin-top: 10px;
+  position: relative;
+  width: 100px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group-10 {
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: 22px;
+  width: 99px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .x {
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-left: 1px;
+  margin-top: 4px;
+  min-height: 44px;
+  width: 253px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-91 {
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-left: 1px;
+  margin-top: 4px;
+  min-height: 58px;
+  width: 253px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group21 {
+  height: 1154px;
+  margin-right: -1px;
+  margin-top: 47px;
+  position: relative;
+  width: 429px;
+  z-index: 2;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-24 {
+  align-items: flex-end;
+  background-image: url(../img/file---1x-png-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 926px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 428px;
+  padding: 15px 85px;
+  position: absolute;
+  top: 228px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group12-1 {
+  height: 294px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .x3-1 {
+  height: 279px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 274px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-186-1 {
+  background-color: var(--eastern-blue);
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 278px;
+  width: 428px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .name-2 {
+  left: 4px;
+  top: 86px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .jacky-lou-1 {
+  left: 274px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .name-3 {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-noto_sans);
+  font-size: 17px;
+  font-weight: 600;
+  left: 311px;
+  top: 128px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-92 {
+  left: 56px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 102px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-93 {
+  left: 274px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-94 {
+  left: 311px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 146px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-95 {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 9px;
+  position: absolute;
+  top: 108px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-96 {
+  left: 318px;
+  letter-spacing: 0;
+  line-height: 9px;
+  position: absolute;
+  top: 44px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-97 {
+  left: 355px;
+  letter-spacing: 0;
+  line-height: 9px;
+  position: absolute;
+  top: 152px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-25 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 100px;
+  min-height: 7px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 100px;
+  transform: rotate(225deg);
+  width: 7px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-180-9 {
+  background-color: var(--eastern-blue);
+  height: 1px;
+  margin-left: -3.01px;
+  margin-top: 3px;
+  transform: rotate(90deg);
+  width: 7px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-179-6 {
+  background-color: var(--eastern-blue);
+  height: 1px;
+  margin-left: 0;
+  width: 7px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-26 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 262px;
+  min-height: 7px;
+  opacity: 0.96;
+  position: absolute;
+  top: 34px;
+  transform: rotate(-45.00deg);
+  width: 7px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-180-7 {
+  background-color: var(--eastern-blue);
+  height: 1px;
+  margin-left: -3.01px;
+  transform: rotate(-90deg);
+  width: 7px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-27 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 301px;
+  min-height: 7px;
+  opacity: 0.96;
+  position: absolute;
+  top: 142px;
+  transform: rotate(-45.00deg);
+  width: 7px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-28 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  left: 23px;
+  min-height: 239px;
+  position: absolute;
+  top: 314px;
+  width: 382px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group-container-2 {
+  gap: 4px;
+  min-width: 382px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group15-1 {
+  height: 58px;
+  position: relative;
+  width: 158px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-29 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 0;
+  min-height: 26px;
+  opacity: 0.96;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-179-8 {
+  background-color: var(--eastern-blue);
+  height: 4px;
+  margin-left: 0;
+  width: 26px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-180-10 {
+  background-color: var(--eastern-blue);
+  height: 4px;
+  margin-left: -10.65px;
+  transform: rotate(-90deg);
+  width: 26px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-98 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 36px;
+  font-weight: 600;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group14-1 {
+  align-self: flex-end;
+  height: 31px;
+  position: relative;
+  width: 220px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-30 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 194px;
+  min-height: 26px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 6px;
+  width: 26px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-180-8 {
+  background-color: var(--eastern-blue);
+  height: 4px;
+  margin-right: -10.65px;
+  margin-top: 11px;
+  transform: rotate(90deg);
+  width: 26px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-179-7 {
+  background-color: var(--eastern-blue);
+  height: 4px;
+  margin-right: 0;
+  width: 26px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .culture-concept-1 {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 22px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group13-1 {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 0.28px;
+  min-height: 167px;
+  padding: 9.5px 5.0px;
+  width: 382px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .ellipse-14-1 {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 8px;
+  margin-left: 1.0px;
+  width: 8px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .flex-row-4 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  gap: 5px;
+  min-width: 371px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .ellipse-15-1 {
+  background-color: var(--eastern-blue);
+  border-radius: 4px;
+  height: 8px;
+  margin-top: 44.0px;
+  width: 8px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-container-3 {
+  height: 135px;
+  position: relative;
+  width: 358px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-99 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-100 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 12px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 79px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-31 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 146px;
+  min-height: 26px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 571px;
+  transform: rotate(45.00deg);
+  width: 26px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-32 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 10px;
+  min-height: 500px;
+  position: absolute;
+  top: 615px;
+  width: 315px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group17 {
+  height: 80px;
+  margin-top: 4px;
+  position: relative;
+  width: 296px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .silhouetten-team-1 {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 32px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-101 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 32px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group16-1 {
+  height: 422px;
+  margin-right: 2px;
+  position: relative;
+  width: 313px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .rectangle-188 {
+  background-color: var(--shark);
+  height: 409px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 313px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-102 {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-103 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 600;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 275px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .span0-2 {
+  color: #1c82a7;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .span2-1 {
+  color: #1d81a5;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .span-3 {
+  color: var(--jelly-bean);
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .text-104 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 12px;
+  font-weight: 600;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 164px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .view-33 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 48px;
+  min-height: 26px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 368px;
+  transform: rotate(-45.00deg);
+  width: 26px;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .title-1 {
+  color: var(--jelly-bean);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 58px;
+  font-weight: 600;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 58px;
+  position: absolute;
+  top: 348px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .span0-3 {
+  color: var(--white);
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .label {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .metadata {
+  letter-spacing: 0;
+  line-height: 3px;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .name {
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .number {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.guan-yu-sa-ying-1-all-breakpoints .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+}
+@media screen and (max-width: 1919px) {
+  .screen.guan-yu-sa-ying { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.guan-yu-sa-ying-1-all-breakpoints { 
+    display: none;
+   }
+}

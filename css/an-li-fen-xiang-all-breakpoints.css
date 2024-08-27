@@ -1,0 +1,1711 @@
+/* screen - an-li-fen-xiang-2-1 */
+
+.an-li-fen-xiang-2-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1720px;
+  width: 428px;
+}
+
+.an-li-fen-xiang-2-1 .view-10 {
+  background-color: var(--eerie-black);
+  height: 1720px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 428px;
+  z-index: 1;
+}
+
+.an-li-fen-xiang-2-1 .view-11 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #1d85aa;
+  height: 132px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 428px;
+  z-index: 5;
+}
+
+.an-li-fen-xiang-2-1 .fb-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 220px;
+  min-width: 87px;
+  position: fixed;
+  top: 80px;
+  z-index: 6;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group6-1 {
+  height: 32px;
+  position: relative;
+  width: 87px;
+}
+
+.an-li-fen-xiang-2-1 .label-2 {
+  left: 26px;
+  line-height: 9px;
+  top: 11px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group-9 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}
+
+.an-li-fen-xiang-2-1 .metadata-7 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.an-li-fen-xiang-2-1 .ig-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 320px;
+  min-height: 32px;
+  position: fixed;
+  top: 80px;
+  width: 87px;
+  z-index: 7;
+}
+
+.an-li-fen-xiang-2-1 .metadata-9 {
+  height: 9px;
+  margin-left: 0;
+  margin-top: -47px;
+  width: 8px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group2-2 {
+  align-self: flex-end;
+  height: 15px;
+  margin-right: 5.01px;
+  margin-top: 1px;
+  position: relative;
+  width: 15px;
+}
+
+.an-li-fen-xiang-2-1 .metadata-10 {
+  height: 9px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.an-li-fen-xiang-2-1 .area-display_element-3 {
+  background-color: var(--ceramic);
+  left: 1px;
+  opacity: 0;
+}
+
+.an-li-fen-xiang-2-1 .label-3 {
+  left: 25px;
+  line-height: 8px;
+  top: 12px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group1-1 {
+  border-radius: 5px;
+  height: 13px;
+  left: 9px;
+  position: absolute;
+  top: 10px;
+  width: 13px;
+}
+
+.an-li-fen-xiang-2-1 .metadata-11 {
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group-10 {
+  border: 2.4px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.an-li-fen-xiang-2-1 .view-container {
+  height: 24px;
+  margin-right: 16.0px;
+  margin-top: 84px;
+  position: relative;
+  width: 46px;
+  z-index: 3;
+}
+
+.an-li-fen-xiang-2-1 .view-12 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 14px;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.an-li-fen-xiang-2-1 .view-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 2px;
+  opacity: 0;
+  position: absolute;
+  top: 6px;
+  transform: rotate(224.00deg);
+}
+
+.an-li-fen-xiang-2-1 .rectangle-179-1 {
+  background-color: var(--eastern-blue);
+  height: 2px;
+  width: 12px;
+}
+
+.an-li-fen-xiang-2-1 .rectangle-180-1 {
+  background-color: var(--eastern-blue);
+  height: 2px;
+  margin-left: 4.94px;
+  transform: rotate(-90deg);
+  width: 12px;
+}
+
+.an-li-fen-xiang-2-1 .x1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  left: 15px;
+  min-width: 46px;
+  position: fixed;
+  top: 84px;
+  z-index: 8;
+}
+
+.an-li-fen-xiang-2-1 .view-container-1 {
+  height: 24px;
+  position: relative;
+  width: 46px;
+}
+
+.an-li-fen-xiang-2-1 .view-14 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  left: 14px;
+  min-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.an-li-fen-xiang-2-1 .view-15 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 2px;
+  min-height: 12px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(224.00deg);
+  width: 12px;
+}
+
+.an-li-fen-xiang-2-1 .view-16 {
+  background-color: var(--black);
+  height: 232px;
+  left: 0;
+  opacity: 0;
+  position: fixed;
+  top: 145px;
+  width: 428px;
+  z-index: 4;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group10 {
+  height: 1569px;
+  margin-top: 43px;
+  position: relative;
+  width: 428px;
+  z-index: 2;
+}
+
+.an-li-fen-xiang-2-1 .view-17 {
+  align-items: flex-end;
+  background-image: url(../img/file---1x-png-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 926px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 428px;
+  padding: 15px 85px;
+  position: absolute;
+  top: 643px;
+}
+
+.an-li-fen-xiang-2-1 .x1-1 {
+  height: 220px;
+  left: 18px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  width: 391px;
+}
+
+.an-li-fen-xiang-2-1 .view-18 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 39px;
+  min-height: 121px;
+  opacity: 0;
+  position: absolute;
+  top: 20px;
+  width: 352px;
+}
+
+.an-li-fen-xiang-2-1 .text-49 {
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-bottom: -7px;
+  margin-right: 13.0px;
+  margin-top: -4px;
+  min-height: 28px;
+  min-width: 131px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .text-46 {
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: 2px;
+  min-height: 46px;
+  min-width: 200px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .text-container {
+  height: 46px;
+  margin-top: 4px;
+  position: relative;
+  width: 352px;
+}
+
+.an-li-fen-xiang-2-1 .text-47 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .text-48 {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .group-112 {
+  background-image: url(../img/group-111-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: 26px;
+  opacity: 0;
+  position: absolute;
+  top: 192px;
+}
+
+.an-li-fen-xiang-2-1 .reference-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 23px;
+  min-height: 144px;
+  position: absolute;
+  top: 15px;
+  width: 384px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group1-2 {
+  height: 70px;
+  margin-top: 5px;
+  position: relative;
+  width: 222px;
+}
+
+.an-li-fen-xiang-2-1 .title-1 {
+  color: var(--mercury);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 42px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 42px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .text-50 {
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .duis-aute-irure-dolo-2 {
+  color: var(--quick-silver);
+  font-size: var(--font-size-xxxl);
+  line-height: 18px;
+  min-height: 35px;
+  min-width: 364px;
+}
+
+.an-li-fen-xiang-2-1 .duis-aute-irure-dolo-3 {
+  color: var(--onyx);
+  font-size: var(--font-size-l);
+  line-height: 11px;
+  margin-top: 2px;
+  min-height: 33px;
+  min-width: 384px;
+}
+
+.an-li-fen-xiang-2-1 .view-19 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 207px;
+  min-height: 13px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 161px;
+  transform: rotate(45.00deg);
+  width: 13px;
+}
+
+.an-li-fen-xiang-2-1 .rectangle-180-2 {
+  background-color: var(--eastern-blue);
+  height: 2px;
+  margin-right: -5.42px;
+  margin-top: 5px;
+  transform: rotate(90deg);
+  width: 13px;
+}
+
+.an-li-fen-xiang-2-1 .rectangle-179-2 {
+  background-color: var(--eastern-blue);
+  height: 2px;
+  margin-right: 0;
+  width: 13px;
+}
+
+.an-li-fen-xiang-2-1 .view-20 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 207px;
+  min-height: 13px;
+  opacity: 0.96;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 168px;
+  transform: rotate(45.00deg);
+  width: 13px;
+}
+
+.an-li-fen-xiang-2-1 .rectangle-180-3 {
+  background-color: var(--gallery);
+  height: 2px;
+  margin-right: -5.42px;
+  margin-top: 5px;
+  transform: rotate(90deg);
+  width: 13px;
+}
+
+.an-li-fen-xiang-2-1 .rectangle-179-3 {
+  background-color: var(--gallery);
+  height: 2px;
+  margin-right: 0;
+  width: 13px;
+}
+
+.an-li-fen-xiang-2-1 .view-21 {
+  background: linear-gradient(180deg, #000000 0%, rgba(19, 88, 112, 0.34) 53.2%, rgba(0, 31, 43, 0) 100%);
+  height: 1200px;
+  left: 0;
+  position: absolute;
+  top: 190px;
+  width: 428px;
+}
+
+.an-li-fen-xiang-2-1 .view-22 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 371px;
+  left: 68px;
+  min-width: 293px;
+  position: absolute;
+  top: 205px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group2-3 {
+  height: 371px;
+  position: relative;
+  width: 293px;
+}
+
+.an-li-fen-xiang-2-1 .post-2 {
+  min-height: 371px;
+}
+
+.an-li-fen-xiang-2-1 .metadata-8 {
+  height: 11px;
+  margin-left: 3px;
+  margin-top: -32px;
+  width: 11px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group-11 {
+  align-items: center;
+  background-image: url(../img/path-9776-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: -9px;
+  min-height: 389px;
+  padding: 6px 0;
+  width: 311px;
+}
+
+.an-li-fen-xiang-2-1 .rectangle-378-1 {
+  background-color: var(--white);
+  height: 199px;
+  width: 293px;
+}
+
+.an-li-fen-xiang-2-1 .text-tagp-3 {
+  height: 57px;
+  overflow: hidden;
+  top: 106px;
+}
+
+.an-li-fen-xiang-2-1 .post-title-tagh5-3 {
+  height: 106px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 22px;
+  width: 258px;
+}
+
+.an-li-fen-xiang-2-1 .category-tagui_s-1 {
+  left: 0;
+  letter-spacing: 0.48px;
+  line-height: 23px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .social-media-1 {
+  left: 102px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 8px 6px #00000029;
+  top: 207px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .rectangle-377-1 {
+  background-color: var(--white);
+  height: 16px;
+  left: 96px;
+  position: absolute;
+  top: 211px;
+  width: 1px;
+}
+
+.an-li-fen-xiang-2-1 .group-402-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 76px;
+  left: 28px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 63px;
+  width: 225px;
+}
+
+.an-li-fen-xiang-2-1 .group-container-1 {
+  height: 76px;
+  margin-top: 0;
+  position: relative;
+  width: 225px;
+}
+
+.an-li-fen-xiang-2-1 .group-399-1 {
+  background-image: url(../img/group-398-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.an-li-fen-xiang-2-1 .group-401-1 {
+  background-image: url(../img/group-400-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 225px;
+}
+
+.an-li-fen-xiang-2-1 .view-23 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 377px;
+  left: 68px;
+  min-width: 293px;
+  position: absolute;
+  top: 600px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group3 {
+  height: 377px;
+  position: relative;
+  width: 293px;
+}
+
+.an-li-fen-xiang-2-1 .post-3 {
+  min-height: 377px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group-12 {
+  align-items: center;
+  background-image: url(../img/path-9776-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: -9px;
+  min-height: 395px;
+  padding: 6px 0;
+  width: 311px;
+}
+
+.an-li-fen-xiang-2-1 .text-tagp-4 {
+  height: 60px;
+  top: 108px;
+}
+
+.an-li-fen-xiang-2-1 .design-1 {
+  left: 85px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 8px 6px #00000029;
+  top: 207px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .group-408-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: 6px;
+  padding: 0.2px 0.0px;
+  position: absolute;
+  top: 17px;
+  width: 280px;
+}
+
+.an-li-fen-xiang-2-1 .group-406-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 167px;
+  padding: 0 0.0px;
+  width: 280px;
+}
+
+.an-li-fen-xiang-2-1 .group-405-1 {
+  background-image: url(../img/group-404-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  margin-top: -0.77px;
+  width: 280px;
+}
+
+.an-li-fen-xiang-2-1 .view-24 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 373px;
+  left: 68px;
+  min-width: 293px;
+  position: absolute;
+  top: 1004px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group4-1 {
+  height: 373px;
+  position: relative;
+  width: 293px;
+}
+
+.an-li-fen-xiang-2-1 .post-4 {
+  min-height: 373px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group-13 {
+  align-items: center;
+  background-image: url(../img/path-9776-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-left: -9px;
+  min-height: 391px;
+  padding: 6px 0;
+  width: 311px;
+}
+
+.an-li-fen-xiang-2-1 .text-tagp-5 {
+  height: 56px;
+  overflow: hidden;
+  top: 106px;
+}
+
+.an-li-fen-xiang-2-1 .event-planing-1 {
+  left: 85px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 8px 6px #00000029;
+  top: 207px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .group-410-1 {
+  height: 68px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 247px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group5-1 {
+  border-radius: 1000px;
+  height: 39px;
+  left: 124px;
+  position: absolute;
+  top: 1407px;
+  width: 181px;
+}
+
+.an-li-fen-xiang-2-1 .metadata-12 {
+  height: 11px;
+  left: 62px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.an-li-fen-xiang-2-1 .area-display_element-4 {
+  background-color: var(--mine-shaft);
+  border-radius: 1000px;
+  height: 39px;
+  left: 0;
+  width: 181px;
+}
+
+.an-li-fen-xiang-2-1 .label-4 {
+  left: 13px;
+  line-height: 13px;
+  top: 13px;
+}
+
+.an-li-fen-xiang-2-1 .overlap-group-14 {
+  height: 17px;
+  left: 151px;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.an-li-fen-xiang-2-1 .metadata-13 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.an-li-fen-xiang-2-1 .area-display_element-5 {
+  background-color: var(--razzle-dazzle-rose);
+  left: 0;
+  opacity: 0;
+}
+
+.an-li-fen-xiang-2-1 .area-display_element {
+  position: absolute;
+  top: 0;
+}
+
+.an-li-fen-xiang-2-1 .duis-aute-irure-dolo {
+  font-family: var(--font-family-noto_sans);
+  font-weight: 500;
+  letter-spacing: 0;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .label {
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-2-1 .metadata {
+  letter-spacing: 0;
+  line-height: 3px;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.an-li-fen-xiang-2-1 .post {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 293px;
+}
+
+.an-li-fen-xiang-2-1 .text-tagp {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  width: 258px;
+}
+/* screen - an-li-fen-xiang-all-breakpoints */
+
+.an-li-fen-xiang-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group7 {
+  background-color: var(--eerie-black);
+  height: 1073px;
+  position: relative;
+  width: 1920px;
+  z-index: 1;
+}
+
+.an-li-fen-xiang-all-breakpoints .group-462 {
+  align-items: flex-end;
+  background-image: url(../img/file--@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 887px;
+  left: 0;
+  min-width: 1920px;
+  padding: 12px 732px;
+  position: absolute;
+  top: 186px;
+}
+
+.an-li-fen-xiang-all-breakpoints .copyright {
+  height: 34px;
+  object-fit: cover;
+  width: 456px;
+}
+
+.an-li-fen-xiang-all-breakpoints .reference {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 679px;
+  min-height: 261px;
+  position: absolute;
+  top: 159px;
+  width: 628px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group-2 {
+  height: 134px;
+  margin-left: 1.0px;
+  margin-top: 8px;
+  position: relative;
+  width: 416px;
+}
+
+.an-li-fen-xiang-all-breakpoints .title {
+  color: var(--mercury);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 79px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 79px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .text-44 {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 40px;
+  font-weight: 600;
+  left: 127px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: 79px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .duis-aute-irure-dolo {
+  color: var(--quick-silver);
+  font-family: var(--font-family-noto_sans);
+  font-size: 19px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 31px;
+  margin-top: 2px;
+  min-height: 59px;
+  min-width: 628px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .duis-aute-irure-dolo-1 {
+  color: var(--onyx);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-left: 1.0px;
+  margin-top: 8px;
+  min-height: 51px;
+  min-width: 602px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .view {
+  background: linear-gradient(0deg, #000000 0%, rgba(19, 88, 112, 0.34) 53.2%, rgba(0, 31, 43, 0) 100%);
+  height: 628px;
+  left: 0;
+  opacity: 0.59;
+  position: absolute;
+  top: 445px;
+  width: 1920px;
+}
+
+.an-li-fen-xiang-all-breakpoints .view-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 485px;
+  left: 797px;
+  min-width: 383px;
+  position: absolute;
+  top: 466px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group {
+  height: 485px;
+  position: relative;
+  width: 383px;
+}
+
+.an-li-fen-xiang-all-breakpoints .post {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 0;
+  min-height: 485px;
+  position: absolute;
+  top: 0;
+  width: 383px;
+}
+
+.an-li-fen-xiang-all-breakpoints .metadata {
+  height: 14px;
+  letter-spacing: 0;
+  line-height: 3px;
+  margin-left: 3.92px;
+  margin-top: -42px;
+  opacity: 0;
+  overflow: hidden;
+  width: 14px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(../img/path-9776-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: -9.0px;
+  min-height: 503px;
+  padding: 6px 9.0px;
+  width: 401px;
+}
+
+.an-li-fen-xiang-all-breakpoints .rectangle-378 {
+  background-color: var(--white);
+  height: 260px;
+  width: 383px;
+}
+
+.an-li-fen-xiang-all-breakpoints .category-tagui_s {
+  letter-spacing: 0.57px;
+  line-height: 28px;
+  margin-left: 11.76px;
+  margin-top: 10px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .post-title-tagh5 {
+  align-self: center;
+  height: 83px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: 22.83px;
+  margin-top: 3px;
+  width: 337px;
+}
+
+.an-li-fen-xiang-all-breakpoints .text-tagp {
+  align-self: center;
+  height: 73px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-right: 22.83px;
+  margin-top: 23px;
+  width: 337px;
+}
+
+.an-li-fen-xiang-all-breakpoints .design {
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 8px 6px #00000029;
+  top: 270px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .group-408 {
+  align-items: flex-end;
+  display: flex;
+  height: 219px;
+  left: 8px;
+  padding: 0.3px 0.0px;
+  position: absolute;
+  top: 22px;
+  width: 366px;
+}
+
+.an-li-fen-xiang-all-breakpoints .group-406 {
+  align-items: flex-start;
+  display: flex;
+  height: 218px;
+  overflow: hidden;
+  width: 366px;
+}
+
+.an-li-fen-xiang-all-breakpoints .group-405 {
+  background-image: url(../img/group-404@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 219px;
+  margin-top: -1.01px;
+  width: 366px;
+}
+
+.an-li-fen-xiang-all-breakpoints .rectangle-416 {
+  background-color: var(--white);
+  height: 21px;
+  left: 103px;
+  position: absolute;
+  top: 276px;
+  width: 1px;
+}
+
+.an-li-fen-xiang-all-breakpoints .view-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 487px;
+  left: 1233px;
+  min-width: 383px;
+  position: absolute;
+  top: 465px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group2 {
+  height: 487px;
+  position: relative;
+  width: 383px;
+}
+
+.an-li-fen-xiang-all-breakpoints .post-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 0;
+  min-height: 487px;
+  position: absolute;
+  top: 0;
+  width: 383px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group-4 {
+  align-items: flex-start;
+  background-image: url(../img/path-9776-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: -9.0px;
+  min-height: 505px;
+  padding: 6px 9.0px;
+  width: 401px;
+}
+
+.an-li-fen-xiang-all-breakpoints .post-title-tagh5-1 {
+  height: 62px;
+}
+
+.an-li-fen-xiang-all-breakpoints .text-tagp-1 {
+  height: 73px;
+  margin-top: 46px;
+}
+
+.an-li-fen-xiang-all-breakpoints .event-planing {
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 8px 6px #00000029;
+  top: 270px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .rectangle-417 {
+  background-color: var(--white);
+  height: 21px;
+  left: 101px;
+  position: absolute;
+  top: 276px;
+  width: 1px;
+}
+
+.an-li-fen-xiang-all-breakpoints .group-410 {
+  height: 89px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 83px;
+  width: 322px;
+}
+
+.an-li-fen-xiang-all-breakpoints .view-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 485px;
+  left: 368px;
+  min-width: 383px;
+  position: absolute;
+  top: 466px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group-5 {
+  align-items: flex-start;
+  background-image: url(../img/path-9776-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: -9.0px;
+  min-height: 503px;
+  padding: 6.0px 9.0px;
+  width: 401px;
+}
+
+.an-li-fen-xiang-all-breakpoints .post-title-tagh5-2 {
+  height: 101px;
+}
+
+.an-li-fen-xiang-all-breakpoints .text-tagp-2 {
+  height: 74px;
+  margin-top: 7px;
+}
+
+.an-li-fen-xiang-all-breakpoints .social-media {
+  left: 133px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 8px 6px #00000029;
+  top: 270px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .rectangle-377 {
+  background-color: var(--white);
+  height: 21px;
+  left: 125px;
+  position: absolute;
+  top: 275px;
+  width: 1px;
+}
+
+.an-li-fen-xiang-all-breakpoints .group-402 {
+  align-items: flex-start;
+  display: flex;
+  height: 99px;
+  left: 36px;
+  overflow: hidden;
+  position: absolute;
+  top: 83px;
+  width: 294px;
+}
+
+.an-li-fen-xiang-all-breakpoints .group-container {
+  height: 99px;
+  margin-top: 0;
+  position: relative;
+  width: 294px;
+}
+
+.an-li-fen-xiang-all-breakpoints .group-399 {
+  background-image: url(../img/group-398@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.an-li-fen-xiang-all-breakpoints .group-401 {
+  background-image: url(../img/group-400-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group4 {
+  border-radius: 1000px;
+  height: 39px;
+  left: 898px;
+  position: absolute;
+  top: 974px;
+  width: 181px;
+}
+
+.an-li-fen-xiang-all-breakpoints .metadata-2 {
+  height: 11px;
+  left: 62px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.an-li-fen-xiang-all-breakpoints .area-display_element {
+  background-color: var(--mine-shaft);
+  border-radius: 1000px;
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 181px;
+}
+
+.an-li-fen-xiang-all-breakpoints .label-1 {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group-6 {
+  height: 17px;
+  left: 151px;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.an-li-fen-xiang-all-breakpoints .metadata-3 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.an-li-fen-xiang-all-breakpoints .area-display_element-1 {
+  background-color: var(--razzle-dazzle-rose);
+  left: 0;
+}
+
+.an-li-fen-xiang-all-breakpoints .x149bc7aa-bb75-49e4-924f-5f7074a55348 {
+  height: 16px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.an-li-fen-xiang-all-breakpoints .view-4 {
+  background-color: var(--black);
+  box-shadow: 0px 3px 6px #1d85aa;
+  height: 128px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+  z-index: 4;
+}
+
+.an-li-fen-xiang-all-breakpoints .component-13-1 {
+  display: flex;
+  height: 44px;
+  left: 54px;
+  position: fixed;
+  top: 45px;
+  width: 166px;
+  z-index: 5;
+}
+
+.an-li-fen-xiang-all-breakpoints .view-5 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  min-width: 165.94px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group-7 {
+  height: 44px;
+  position: relative;
+  width: 166px;
+}
+
+.an-li-fen-xiang-all-breakpoints .rectangle-181 {
+  background-color: var(--eastern-blue-2);
+  border-radius: 41px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 129px;
+}
+
+.an-li-fen-xiang-all-breakpoints .text-45 {
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .view-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 121px;
+  min-height: 26px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-44.00deg);
+  width: 26px;
+}
+
+.an-li-fen-xiang-all-breakpoints .rectangle-180 {
+  background-color: var(--eastern-blue-2);
+  height: 4px;
+  margin-right: -10.91px;
+  margin-top: 11px;
+  transform: rotate(90deg);
+  width: 26px;
+}
+
+.an-li-fen-xiang-all-breakpoints .rectangle-179 {
+  background-color: var(--eastern-blue-2);
+  height: 4px;
+  margin-right: 0;
+  width: 26px;
+}
+
+.an-li-fen-xiang-all-breakpoints .view-7 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 134px;
+  min-height: 26px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-44.00deg);
+  width: 26px;
+}
+
+.an-li-fen-xiang-all-breakpoints .view-8 {
+  background-color: var(--black);
+  box-shadow: -5px 3px 6px #1d85aa;
+  height: 6px;
+  left: 1362px;
+  opacity: 0;
+  position: fixed;
+  top: 532px;
+  transform: rotate(90deg);
+  width: 1109px;
+  z-index: 3;
+}
+
+.an-li-fen-xiang-all-breakpoints .fb {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  left: 1627px;
+  min-width: 115px;
+  position: fixed;
+  top: 41px;
+  z-index: 6;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group5 {
+  height: 42px;
+  position: relative;
+  width: 115px;
+}
+
+.an-li-fen-xiang-all-breakpoints .rectangle-101 {
+  background-color: var(--blue);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 33px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 114px;
+}
+
+.an-li-fen-xiang-all-breakpoints .label {
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.an-li-fen-xiang-all-breakpoints .fb-ig-17 {
+  height: 18px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group-1 {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 115px;
+}
+
+.an-li-fen-xiang-all-breakpoints .metadata-1 {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.an-li-fen-xiang-all-breakpoints .bar-statedefault {
+  background-color: var(--white);
+  border-radius: 1000px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 40px;
+}
+
+.an-li-fen-xiang-all-breakpoints .ig {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1758px;
+  min-height: 42px;
+  position: fixed;
+  top: 41px;
+  width: 115px;
+  z-index: 7;
+}
+
+.an-li-fen-xiang-all-breakpoints .metadata-4 {
+  height: 12px;
+  margin-left: 0;
+  margin-top: -61px;
+  width: 10px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group2-1 {
+  align-self: flex-end;
+  height: 20px;
+  margin-right: 7.21px;
+  margin-top: 3px;
+  position: relative;
+  width: 19px;
+}
+
+.an-li-fen-xiang-all-breakpoints .metadata-5 {
+  height: 12px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.an-li-fen-xiang-all-breakpoints .area-display_element-2 {
+  background-color: var(--ceramic);
+  left: 1px;
+}
+
+.an-li-fen-xiang-all-breakpoints .x7fba2411-ad5f-4343-8a35-84f8db866da4 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group6 {
+  height: 42px;
+  margin-top: 27px;
+  position: relative;
+  width: 115px;
+}
+
+.an-li-fen-xiang-all-breakpoints .rectangle-102 {
+  background: linear-gradient(110.52deg, #181cf4 6.58%, #7233d4 48.86%, #d14bb3 93.29%);
+  border: 1px solid;
+  border-color: var(--dove-gray);
+  border-radius: 33px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 115px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group1 {
+  border-radius: 5px;
+  height: 16px;
+  left: 12px;
+  position: absolute;
+  top: 14px;
+  width: 16px;
+}
+
+.an-li-fen-xiang-all-breakpoints .metadata-6 {
+  height: 8px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 8px;
+}
+
+.an-li-fen-xiang-all-breakpoints .area-iconfeatherinst {
+  background-color: var(--ceramic);
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+  top: 1px;
+}
+
+.an-li-fen-xiang-all-breakpoints .overlap-group-8 {
+  border: 2.4px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.an-li-fen-xiang-all-breakpoints .x5518700c-e2a4-4ae6-bac4-00281ec06e13 {
+  height: 8px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 8px;
+}
+
+.an-li-fen-xiang-all-breakpoints .x6c606586-1912-4eee-85e0-5630e7621e73 {
+  height: 2px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.an-li-fen-xiang-all-breakpoints .view-9 {
+  background-color: var(--black);
+  box-shadow: -5px 3px 6px #1d85aa;
+  height: 937px;
+  left: 1834px;
+  opacity: 0.0;
+  position: fixed;
+  top: 72px;
+  transform: rotate(90deg);
+  width: 1080px;
+  z-index: 2;
+}
+
+.an-li-fen-xiang-all-breakpoints .area-display_element-3 {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+}
+
+.an-li-fen-xiang-all-breakpoints .metadata-7 {
+  letter-spacing: 0;
+  line-height: 3px;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.an-li-fen-xiang-all-breakpoints .post-title-tagh5-3 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: 22.83px;
+  margin-top: 3px;
+  width: 337px;
+}
+
+.an-li-fen-xiang-all-breakpoints .text-tagp-3 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-right: 22.83px;
+  width: 337px;
+}
+@media screen and (max-width: 1919px) {
+  .screen.an-li-fen-xiang-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.an-li-fen-xiang-2-1 { 
+    display: none;
+   }
+}

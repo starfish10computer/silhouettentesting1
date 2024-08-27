@@ -1,0 +1,368 @@
+:root { 
+  --black: #000000;
+  --blue: #1a77f2;
+  --ceramic: #fcfcfc;
+  --dove-gray: #707070;
+  --eastern-blue: #1d85aa;
+  --eastern-blue-2: #1c85aa;
+  --eerie-black: #1b1b1b;
+  --gallery: #eeeeee;
+  --gravel: #4b4b4b;
+  --jelly-bean: #1c81a4;
+  --mercury: #e6e6e7;
+  --mine-shaft: #2f2f2f;
+  --mirage: #1c2126;
+  --onyx: #393939;
+  --quick-silver: #a7a7ad;
+  --razzle-dazzle-rose: #fd49c659;
+  --shark: #262626;
+  --ship-gray: #3e3e3e;
+  --stack: #8e8e8e;
+  --west-side: #fc8712;
+  --white: #ffffff;
+  --wild-sand: #f2f3f7;
+ 
+  --font-size-l: 7px;
+  --font-size-m: 3px;
+  --font-size-xl: 8px;
+  --font-size-xxl: 10px;
+  --font-size-xxxl: 11px;
+  --font-size-xxxxl: 15px;
+  --font-size-xxxxxl: 18px;
+ 
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-lantingheitc-extralight: "LantingheiTC-Extralight", Helvetica;
+  --font-family-lantingheitc-heavy: "LantingheiTC-Heavy", Helvetica;
+  --font-family-microsoftnew_tai_lue-regular: "MicrosoftNew Tai Lue-Regular", Helvetica;
+  --font-family-modernno__20-regular: "ModernNo. 20-Regular", Helvetica;
+  --font-family-montserrat_alternates: "Montserrat Alternates", Helvetica;
+  --font-family-muli-bold: "Muli-Bold", Helvetica;
+  --font-family-noto_sans: "Noto Sans", Helvetica;
+  --font-family-pingfangtc-regular: "PingFangTC-Regular", Helvetica;
+}
+.arial-regular-normal-white-3px {
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notosans-semi-bold-white-11px {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notosans-semi-bold-white-19px {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notosans-semi-bold-white-9px {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notosans-semi-bold-white-8px {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.microsoftnewtailue-regular-normal-eastern-blue-18px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-microsoftnew_tai_lue-regular);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.microsoftnewtailue-regular-normal-white-33px {
+  color: var(--white);
+  font-family: var(--font-family-microsoftnew_tai_lue-regular);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.modernno-20-regular-normal-stack-8px {
+  color: var(--stack);
+  font-family: var(--font-family-modernno__20-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.modernno-20-regular-normal-eastern-blue-8px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-modernno__20-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notosans-bold-gallery-18px {
+  color: var(--gallery);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosans-medium-quick-silver-10px {
+  color: var(--quick-silver);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.notosans-semi-bold-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notosans-bold-eastern-blue-16px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-noto_sans);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserratalternates-semi-bold-eastern-blue-21px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-white-27px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-eastern-blue-27px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-eastern-blue-30px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-eastern-blue-9px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-white-54px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-eastern-blue-54px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notosans-semi-bold-mirage-11px {
+  color: var(--mirage);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-eastern-blue-39px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-bold-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserratalternates-semi-bold-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-eastern-blue-12px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-white-38px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-gallery-30px {
+  color: var(--gallery);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-eastern-blue-16px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-gallery-16px {
+  color: var(--gallery);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notosans-bold-eastern-blue-19px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-noto_sans);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserratalternates-semi-bold-white-19px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-eastern-blue-19px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notosans-semi-bold-mirage-15px {
+  color: var(--mirage);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.notosans-semi-bold-eastern-blue-13px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-noto_sans);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-bold-white-27px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserratalternates-semi-bold-white-34px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserratalternates-semi-bold-eastern-blue-17px {
+  color: var(--eastern-blue);
+  font-family: var(--font-family-montserrat_alternates);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+}
